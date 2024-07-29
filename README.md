@@ -1,30 +1,18 @@
-<h1 align="center">Lab Website Template</h1>
-<p align="center">
-<img height="200" src="https://raw.githubusercontent.com/greenelab/lab-website-template/main/images/share.jpg?raw=true" alt="Lab Website Template">
-</p>
+# Summary
+Source code for the HAI Lab at UVA website. The site should be updated regularly by the lab with new members, projects, and news as appropriate. 
 
-Lab Website Template (LWT) is an easy-to-use, flexible website template for labs.
-Spend less time worrying about managing a website and citations, and more time running your lab.
+# Attributions
+The site is based on a template from the Greene Lab, see the below template documentation and/or [```LICENSE.md```](LICENSE.md) for more information on this. 
 
-👇👇 **Get Started** 👇👇
+[**Template Documentation**](https://greene-lab.gitbook.io/lab-website-template-docs)
 
-[**Documentation**](https://greene-lab.gitbook.io/lab-website-template-docs)
+# Authors
+* Andrew Balch - xxv2zh@virginia.edu
+* Members of the HAI Lab!
 
-## Key Features
+# How to contribute
+Most page modifications should be made to the ```Markdown``` files, contained within folders of the same title. To add new chunks of text, place these within ```{% capture text %} <text> {% endcapture %}``` commands. 
 
-- 🤖 Based on Git, GitHub, and Jekyll.
-- 📜 Automatically generated citations from simple identifiers (DOI, PubMed, ORCID, and many more) using Manubot. E.g. `doi:1234/5678` -> `title`, `authors`, `publisher`, `date`, etc.
-- 🧱 A comprehensive and flexible suite of pre-made components (building blocks) for structuring and styling your website:
-  - Formatted tables, code blocks, figures, and other basic elements.
-  - Citations with thumbnails and other rich details.
-  - List large sets of data with flexible filters and components.
-  - ...many more
-- 👁️ Automatic pull request previews.
-- ⚙️ Easy and automated configuration.
-- 👥 Team member pages with bios, roles, and social media links.
-- 🖋️ Blog posts with tags and rich content.
-- 📱 Works and looks good on desktop and mobile.
-- 🤝 Great documentation and support (if we do say so ourselves).
-- ... and much more!
+Images should be added under the [```images```](images) directory. To include data (such as images) on a page, ```{% insert <filepath> %}``` commands should be used. Changes to other files and directories (especially those prefixed with an "_") should be made hesitantly, to avoid breaking the website. 
 
-![GitHub last commit](https://img.shields.io/github/last-commit/greenelab/lab-website-template)
+It is recommended to check the above template documentation for more detailed information on the innerworkings of the website template and it's included features (like automatic citations). 
