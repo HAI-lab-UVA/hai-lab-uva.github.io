@@ -15,7 +15,3 @@ nav:
 # Alumni
 {% include list.html data="members" component="portrait" filters="role: alum_phd" %}
 {% include list.html data="members" component="portrait" filters="role: alum_undergrad" %}
-
-{% include section.html background="images/background.jpg" dark=true %}
-
-TODO: include information for prospective students?
