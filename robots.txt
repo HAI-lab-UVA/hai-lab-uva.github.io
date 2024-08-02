@@ -1,1 +1,1 @@
-Sitemap: https://hai-lab-uva.github.io/hai-lab-uva.gitub.io/sitemap.xml
+Sitemap: https://hai-lab-uva.github.io/sitemap.xml
