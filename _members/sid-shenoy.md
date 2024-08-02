@@ -1,0 +1,19 @@
+---
+name: Sid Shenoy (I don't know if I spelled his last name right and I cannot check because I am in a plane)
+image: images/photo.jpg
+role: alum_phd
+affiliation: NSF?
+aliases:
+  - S. Shenoy
+links:
+  home-page: https://iamdoingthisontheplaneandidontknowwhatyourwebsiteurlissorry.com
+  orcid: 0000-0001-8713-9213
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
+Elit at imperdiet dui accumsan.
+Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
+Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
+Lacinia at quis risus sed vulputate odio ut.
+Magna eget est lorem ipsum.

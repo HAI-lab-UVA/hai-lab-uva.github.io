@@ -16,3 +16,6 @@ Most page modifications should be made to the ```Markdown``` files, contained wi
 Images should be added under the [```images```](images) directory. To include data (such as images) on a page, ```{% insert <filepath> %}``` commands should be used. Changes to other files and directories (especially those prefixed with an "_") should be made hesitantly, to avoid breaking the website. 
 
 It is recommended to check the above template documentation for more detailed information on the innerworkings of the website template and it's included features (like automatic citations). 
+
+### Managing team members
+Each team member that should be shown on the "Team" page should have their own markdown file under the [```_members```](_members) directory. Adding and removing these files updates the list shown on the page. 
