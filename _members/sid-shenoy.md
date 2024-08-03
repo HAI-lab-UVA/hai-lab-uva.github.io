@@ -1,5 +1,5 @@
 ---
-name: Sid Shenoy (I don't know if I spelled his last name right and I cannot check because I am in a plane)
+name: Sid Shenoy
 image: images/photo.jpg
 role: alum_phd
 affiliation: NSF?
