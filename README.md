@@ -1,3 +1,5 @@
+Visit **[hai-lab-uva.github.io](https://hai-lab-uva.github.io)** 🚀
+
 # Summary
 Source code for the HAI Lab at UVA website. The site should be updated regularly by the lab with new members, projects, and news as appropriate. 
 
