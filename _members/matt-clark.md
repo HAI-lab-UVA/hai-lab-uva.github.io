@@ -1,6 +1,6 @@
 ---
 name: Matt Clark
-image: images/photo.jpg
+image: images/Matt-Clark.jpg
 role: phd
 affiliation: University of Virginia
 aliases:
@@ -8,12 +8,13 @@ aliases:
 links:
   home-page: www.mclark.site
   orcid: 0000-0002-2033-1427
+  google-scholar: https://scholar.google.com/?inst=13751854044476728232
+  email: wdd6ts@virginia.edu
+fun-fact: I am an avid board game collector. I currently have over 50!
+projects: 
+  - Melodies
+  - Rhythms 
+  - Mood Ring
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Matt Clark is a fourth year PhD Candidate in the Computer Science Department. He earned his Bachelor of Arts in Computer Science from Skidmore College in May 2021, and his Masters of Computer Science from the University of Virginia in August 2023. His work focuses on designing systems that leverage personalized affective messaging to enable more meaningful communication. 
