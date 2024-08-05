@@ -6,7 +6,7 @@ affiliation: University of Virginia
 aliases:
   - M. Cardei
 links:
-  home-page: https://iamdoingthisontheplaneandidontknowwhatyourwebsiteurlissorry.com
+  home-page: https://mariacardei.github.io/
   orcid: 0000-0001-8713-9213
 ---
 
