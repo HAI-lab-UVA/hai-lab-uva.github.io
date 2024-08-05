@@ -1,6 +1,6 @@
 ---
 name: Maria Cardei
-image: images/maria-pic.png
+image: images/maria-pic.jpg
 role: phd
 affiliation: University of Virginia
 aliases:
