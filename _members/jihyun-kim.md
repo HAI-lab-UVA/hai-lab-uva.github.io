@@ -1,7 +1,7 @@
 ---
 name: Ji Hyun Kim
 image: images/photo.jpg
-role: MS
+role: ms
 affiliation: University of Virginia
 aliases:
   - J. Kim
