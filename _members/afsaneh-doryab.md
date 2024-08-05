@@ -6,7 +6,7 @@ affiliation: University of Virginia
 aliases:
   - A. Doryab
 links:
-  home-page: https://iamdoingthisontheplaneandidontknowwhatyourwebsiteurlissorry.com
+  home-page: https://afsanehdoryab.com
   orcid: 0000-0001-8713-9213
 ---
 
