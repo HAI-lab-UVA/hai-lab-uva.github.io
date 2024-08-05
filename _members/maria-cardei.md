@@ -13,3 +13,5 @@ links:
 ---
 
 My research focuses on... things..
+
+Email me at cbr8ru@virginia.edu.
