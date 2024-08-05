@@ -6,12 +6,15 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
+
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: phd" %}
+{% include list.html data="members" component="portrait" filters="role: MS" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
 # Alumni
+
 {% include list.html data="members" component="portrait" filters="role: alum_phd" %}
 {% include list.html data="members" component="portrait" filters="role: alum_undergrad" %}
