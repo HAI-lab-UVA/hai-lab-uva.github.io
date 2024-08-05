@@ -1,13 +1,13 @@
 ---
 name: Maria Cardei
-image: images/photo.jpg
+image: images/maria-pic.png
 role: phd
 affiliation: University of Virginia
 aliases:
   - M. Cardei
 links:
   home-page: https://mariacardei.github.io/
-  orcid: 0000-0001-8713-9213
+  orcid: 0009-0009-0047-6766
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
