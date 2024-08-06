@@ -1,0 +1,58 @@
+{% if include.lookup %}
+  {% assign project = site.projects 
+    | where_exp: "project", "project.slug == include.lookup"
+    | first
+  %}
+{% else %}
+  {% assign project = include %}
+{% endif %}
+
+# {% assign type = site.data.types[project.role] %}
+
+<div class="card">
+  <a
+    {% if page.slug != project.slug %}
+      href="{{ project.url | relative_url }}"
+    {% endif %}
+    class="portrait"
+    data-style="{{ include.style }}"
+    aria-label="{{ project.title | default: "project link" }}"
+  >
+    <img
+      src="{{ card.image | relative_url }}"
+      alt="{{ card.title | default: "card image" }}"
+      loading="lazy"
+      {% include fallback.html %}
+    >
+  </a>
+  
+  <div class="card-text">
+    {% if project.title %}
+      <a
+        {% if include.link %}
+          href="{{ project.link | relative_url }}"
+        {% endif %}
+        {% if include.tooltip %}
+          data-tooltip="{{ project.tooltip }}"
+        {% endif %}
+        class="card-title"
+      >
+        {{ project.title }}
+    </a>
+    {% endif %}
+
+    {% if project.subtitle %}
+      <span class="card-subtitle">{{ project.subtitle }}</span>
+    {% endif %}
+
+    {% if project.description %}
+      <p>
+        {{ project.description | markdownify | remove: "<p>" | remove: "</p>" }}
+      </p>
+    {% endif %}
+
+    {% if project.tags or project.repo %}
+      {% project tags.html tags=project.tags repo=project.repo %}
+    {% endif %}
+  </div>
+</div>
