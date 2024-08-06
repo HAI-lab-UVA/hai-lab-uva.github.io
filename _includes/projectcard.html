@@ -12,7 +12,7 @@
     {% if page.slug != project.slug %}
       href="{{ project.url | relative_url }}"
     {% endif %}
-    class="projectcard"
+    class="portrait"
     data-style="{{ include.style }}"
     aria-label="{{ project.title | default: "project link" }}"
   >
@@ -28,7 +28,7 @@
     {% if project.title %}
       <a
         {% if project.link %}
-          href="{{ project.link | relative_url }}"
+          href="{{ project.url | relative_url }}"
         {% endif %}
         {% if project.tooltip %}
           data-tooltip="{{ project.tooltip }}"
@@ -36,7 +36,7 @@
         class="card-title"
       >
         {{ project.title }}
-    </a>
+      </a>
     {% endif %}
 
     {% if project.subtitle %}
