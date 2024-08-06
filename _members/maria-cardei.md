@@ -8,7 +8,7 @@ aliases:
 email:
   - cbr8ru@virginia.edu
 links:
-  Maria's home-page: https://mariacardei.github.io/
+  home-page: https://mariacardei.github.io/
   orcid: 0009-0009-0047-6766
   google-scholar: https://scholar.google.com/citations?hl=en&user=R7iVxqUAAAAJ&inst=13751854044476728232
   email: cbr8ru@virginia.edu
