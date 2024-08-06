@@ -8,6 +8,8 @@ aliases:
 links:
   home-page: https://sabit-ahmed.netlify.app/#/
   orcid: 0000-0002-4830-0657
+  google-scholar: https://scholar.google.com/citations?user=r2WP8rgAAAAJ&hl=en
+  email: bcw3zj@virginia.edu
 ---
 
 Sabit Ahmed is currently pursuing his PhD in Computer Science at the University of Virginia. He 
