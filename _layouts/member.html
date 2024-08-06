@@ -20,6 +20,12 @@ layout: default
 
 {{ content }}
 
+{% if member.fun-fact %}
+<p>
+  Fun fact: {{member.fun-fact}}
+</p>
+{% endif %}
+
 {% assign aliases = page.aliases
   | default: page.name
   | default: page.title
