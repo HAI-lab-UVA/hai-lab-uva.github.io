@@ -32,9 +32,9 @@ layout: default
   research/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
 {%- endcapture %}
 
-{% include list.html data="citations" component="citation" style="rich" filters="{{page.title}}"%}
+{% include list.html data="citations" component="citation" style="rich" filters=page.title %}
 
-{% include list.html data="members" component="portrait" filters="projects: {{page.title}}" %}
+{% include list.html data="members" component="portrait" filters="projects: {{ page.title }}" %}
 
 <!--
 <p class="center">
