@@ -23,19 +23,19 @@
 #   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
 
 # Sounds of Health: Using Personalized Sonification Models to Communicate Health Information
-- id: doi.org/10.1145/3570346
+- id: doi:10.1145/3570346
   image: images/Sounds-Of-Health-Cover.jpg
   tags:
     - Melodies
 
 # Changing Your Tune: Lessons for Using Music to Encourage Physical Activity
-- id: doi.org/10.1145/3659611
+- id: doi:10.1145/3659611
   image: images/Changing-Your-Tune-Cover.jpg
   tags:
     - Melodies
 
 # Personalization in Circadian Rhythm-Based Event Scheduling
-- id: doi.org/10.1109/SIEDS58326.2023.10137806
+- id: doi:10.1109/SIEDS58326.2023.10137806
   image: images/2023-SIEDS-Cover.jpg
   tags:
     - Rhythms
