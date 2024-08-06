@@ -14,4 +14,4 @@ links:
   email: cbr8ru@virginia.edu
 ---
 
-My research focuses on... things..
+Hi, I’m Maria. I am a Computer Science Ph.D. student at the University of Virginia advised by Professor Afsaneh Doryab in the Human-AI Technology Lab. I graduated Cum Laude from the University of Florida in May of 2023 with a Bachelor of Science degree in Biomedical Engineering and a minor in Computer Science. My research interests include computational behavior modeling, AI for healthcare, mobile health and wellness, and cyber-physical systems.
