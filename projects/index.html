@@ -449,24 +449,6 @@
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-
-<div class="tags" data-link="https://hai-lab-uva.github.io/projects/">
-    
-      <a href='https://hai-lab-uva.github.io/projects/?search="tag:%20publication"' class="tag" data-tooltip='Show items with the tag "publication"'>
-        publication
-      </a>
-    
-      <a href='https://hai-lab-uva.github.io/projects/?search="tag:%20resource"' class="tag" data-tooltip='Show items with the tag "resource"'>
-        resource
-      </a>
-    
-      <a href='https://hai-lab-uva.github.io/projects/?search="tag:%20website"' class="tag" data-tooltip='Show items with the tag "website"'>
-        website
-      </a>
-    
-  </div>
-
-<div class="search-info"></div>
   </section>
 
   
@@ -480,7 +462,32 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   size: ;
 -->
 
-<h2 id="featured">Featured</h2>
+<div class="search-box">
+  <input type="text" class="search-input" oninput="onSearchInput(this)" placeholder="Search items on this page">
+  <button disabled data-tooltip="Clear search" aria-label="clear search" onclick="onSearchClear()">
+    <i class="icon fa-solid fa-magnifying-glass"></i>
+  </button>
+</div>
+
+<div class="tags" data-link="https://hai-lab-uva.github.io/projects/">
+    
+      <a href='https://hai-lab-uva.github.io/projects/?search="tag:%20tag-1"' class="tag" data-tooltip='Show items with the tag "tag-1"'>
+        tag-1
+      </a>
+    
+      <a href='https://hai-lab-uva.github.io/projects/?search="tag:%20tag-2"' class="tag" data-tooltip='Show items with the tag "tag-2"'>
+        tag-2
+      </a>
+    
+      <a href='https://hai-lab-uva.github.io/projects/?search="tag:%20tag-3"' class="tag" data-tooltip='Show items with the tag "tag-3"'>
+        tag-3
+      </a>
+    
+  </div>
+
+<div class="search-info"></div>
+
+<h1 id="featured">Featured</h1>
 
 <p>#</p>
 
@@ -536,7 +543,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   size: ;
 -->
 
-<h2 id="more">More</h2>
+<h1 id="more">More</h1>
   </section>
 
 
