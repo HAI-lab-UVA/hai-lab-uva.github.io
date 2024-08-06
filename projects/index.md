@@ -10,18 +10,20 @@ nav:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-{% include tags.html tags="publication, resource, website" %}
+{% include section.html %}
+
+{% include search-box.html %}
+
+{% include tags.html tags="tag 1, tag 2, tag 3" %}
 
 {% include search-info.html %}
 
-{% include section.html %}
-
-## Featured
+# Featured
 
 {% include list.html data="projects" component="projectcard" filters="group: featured" %}
 
 {% include section.html %}
 
-## More
+# More
 
 {% include list.html data="projects" component="projectcard" filters="group: " style="small" %}
