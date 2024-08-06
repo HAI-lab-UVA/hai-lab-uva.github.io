@@ -32,15 +32,9 @@ layout: default
   research/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
 {%- endcapture %}
 
-<p class="center">
-  <a href="{{ search | relative_url }}">
-    Search for {{ page.name | default: page.title }}'s papers on the Research page
-  </a>
-</p>
+{% include list.html data="citations" component="citation" style="rich" filters="melodies"%}
 
-{% capture search -%}
-  news/?search={{ page.name }}
-{%- endcapture %}
+{% include list.html data="members" component="portrait" filters="projects: melodies" %}
 
 <!--
 <p class="center">
