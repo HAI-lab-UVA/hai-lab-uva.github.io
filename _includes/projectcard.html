@@ -7,14 +7,12 @@
   {% assign project = include %}
 {% endif %}
 
-# {% assign type = site.data.types[project.role] %}
-
 <div class="card">
   <a
     {% if page.slug != project.slug %}
       href="{{ project.url | relative_url }}"
     {% endif %}
-    class="portrait"
+    class="projectcard"
     data-style="{{ include.style }}"
     aria-label="{{ project.title | default: "project link" }}"
   >
@@ -29,10 +27,10 @@
   <div class="card-text">
     {% if project.title %}
       <a
-        {% if include.link %}
+        {% if project.link %}
           href="{{ project.link | relative_url }}"
         {% endif %}
-        {% if include.tooltip %}
+        {% if project.tooltip %}
           data-tooltip="{{ project.tooltip }}"
         {% endif %}
         class="card-title"
