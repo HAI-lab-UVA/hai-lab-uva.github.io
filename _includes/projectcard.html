@@ -52,7 +52,7 @@
     {% endif %}
 
     {% if project.tags or project.repo %}
-      {% project tags.html tags=project.tags repo=project.repo %}
+      {% include tags.html tags=project.tags repo=project.repo %}
     {% endif %}
   </div>
 </div>

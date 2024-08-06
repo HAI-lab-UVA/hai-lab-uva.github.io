@@ -4,9 +4,9 @@ subtitle: a subtitle
 group: featured
 image: images/Matt-Clark.jpg
 description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - Matthew Clark
+repo: greenelab/lab-website-template
+tags: 
+  - Matthew Clark
 ---
   
 
