@@ -392,8 +392,24 @@
   
 
   <section class="background" data-size="page">
-    <div class="float">
+    
+  <style>
+    .sticky-card {
+      position: -webkit-sticky; /* For Safari */
+      position: sticky !important;
+      top: 0;
+      z-index: 300;
+    }
+  </style>
+
+
+
+
+<div class="float">
   
+<div class="sticky-card">
+  
+
 <div class="card">
   <a class="portrait" data-style="" aria-label="Melodies">
     <img src="" alt="card image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
@@ -432,6 +448,8 @@
 
     
   </div>
+</div>
+
 </div>
 
 <div>
