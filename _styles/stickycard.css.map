@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["stickycard.scss"],"names":[],"mappings":"AAAA;EACI;EACA","sourcesContent":[".sticky-card {\n    position: sticky;\n    top: 100px;\n}"],"file":"stickycard.css"}
+{"version":3,"sourceRoot":"","sources":["stickycard.scss"],"names":[],"mappings":"AAAA;EACE;EACA;;;AAGF;EACE","sourcesContent":[".sticky-card {\n  position: sticky !important;\n  top: 60px !important;\n}\n\n.float {\n  overflow: visible;\n}"],"file":"stickycard.css"}
