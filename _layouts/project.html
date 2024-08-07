@@ -34,7 +34,8 @@ layout: default
 
 {% include list.html data="citations" component="citation" style="rich" filters=page.title %}
 
-{% include list.html data="members" component="portrait" filters="projects: {{ page.title }}" %}
+{% assign project_team_filter = "projects: " | append: page.title %}
+{% include list.html data="members" component="portrait" filters=project_team_filter %}
 
 <!--
 <p class="center">
