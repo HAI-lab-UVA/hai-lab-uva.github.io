@@ -33,7 +33,7 @@ layout: default
 
 <h1>Projects</h1>
 
-{% assign member_projects = "people: " | append: member.aliases}
+{% assign member_projects = "people: " | append: member.aliases %}
 {% include list.html data="projects" component="projectcard" filters=member_projects %}
 
 
