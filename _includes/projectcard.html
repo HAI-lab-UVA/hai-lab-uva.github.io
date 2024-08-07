@@ -12,7 +12,7 @@
     {% if page.slug != project.slug %}
       href="{{ project.url | relative_url }}"
     {% endif %}
-    class="portrait"
+    class="card-image"
     data-style="{{ include.style }}"
     aria-label="{{ project.title | default: "project link" }}"
   >
