@@ -26,6 +26,19 @@ layout: default
 </p>
 {% endif %}
 
+
+<!-- Projects -->
+
+{% include section.html %}
+
+<h1>Projects</h1>
+
+{% assign member_projects = "people: " | append: member.aliases}
+{% include list.html data="projects" component="projectcard" filters=member_projects %}
+
+
+<!-- Search for publications -->
+
 {% assign aliases = page.aliases
   | default: page.name
   | default: page.title
