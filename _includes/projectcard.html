@@ -17,17 +17,13 @@
     aria-label="{{ project.title | default: "project link" }}"
   >
     <img
-      src="{{ card.image | relative_url }}"
-      alt="{{ card.title | default: "card image" }}"
+      src="{{ project.image | relative_url }}"
+      alt="{{ project.title | default: "card image" }}"
       loading="lazy"
       {% include fallback.html %}
     >
   </a>
-  <a 
-    {% if page.slug != project.slug %}
-    href="{{ project.url | relative_url }}"
-    {% endif %}
-  ><div class="card-text">
+  <div class="card-text">
     {% if project.title %}
       <a
         {% if page.slug != project.slug %}
@@ -55,5 +51,5 @@
     {% if project.tags or project.repo %}
       {% include tags.html tags=project.tags repo=project.repo %}
     {% endif %}
-  </div></a>
+  </div>
 </div>
