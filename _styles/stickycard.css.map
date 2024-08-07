@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["stickycard.scss"],"names":[],"mappings":"AAAA;EACI;EACA","sourcesContent":[".sticky-card {\n    position: sticky;\n    top: 100px;\n}"],"file":"stickycard.css"}
