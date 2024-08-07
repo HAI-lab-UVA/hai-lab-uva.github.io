@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["sticky.scss"],"names":[],"mappings":"AAAA;EACE;EACA;;;AAGF;EACE","sourcesContent":[".sticky {\n  position: sticky !important;\n  top: 70px !important;\n}\n\n.float {\n  overflow: visible !important;\n}"],"file":"sticky.css"}
