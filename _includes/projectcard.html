@@ -23,12 +23,15 @@
       {% include fallback.html %}
     >
   </a>
-  
-  <div class="card-text">
+  <a 
+    {% if page.slug != project.slug %}
+    href="{{ project.url | relative_url }}"
+    {% endif %}
+  ><div class="card-text">
     {% if project.title %}
       <a
-        {% if project.link %}
-          href="{{ project.url | relative_url }}"
+        {% if page.slug != project.slug %}
+        href="{{ project.url | relative_url }}"
         {% endif %}
         {% if project.tooltip %}
           data-tooltip="{{ project.tooltip }}"
@@ -52,5 +55,5 @@
     {% if project.tags or project.repo %}
       {% include tags.html tags=project.tags repo=project.repo %}
     {% endif %}
-  </div>
+  </div></a>
 </div>
