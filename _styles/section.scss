@@ -4,6 +4,22 @@
 $page: 1000px;
 $padding: 40px;
 
+
+.sticky {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+  align-self: start; /* For flexbox containers */
+  background-color: white;
+  padding: 10px;
+  width: 300px;
+  border-right: 1px solid #ddd; /* optional, for a visual separator */
+}
+
+.unstuck_content {
+  margin-left: 320px; /* Adjust this based on the width of your sidebar */
+}
+
 section {
   padding: $padding max($padding, calc((100% - $page) / 2));
   transition: background var(--transition), color var(--transition);

@@ -2,50 +2,42 @@
 layout: default
 ---
 
+<!-- [IN PROGRESS] Profile side bar -->
+
+<div class=sticky>
 {% capture floatcontent %}
-
-{% include portrait.html lookup=page.slug %}
-
-<div>
-  {% for link in page.links %}
-    {% assign key = link[0] %}
-    {% assign value = link[1] %}
-    {% include button.html type=key link=value style="bare" %}<br>
-  {% endfor %}
+  {% include portrait.html lookup=page.slug %}
+  <div>
+    {% for link in page.links %}
+      {% assign key = link[0] %}
+      {% assign value = link[1] %}
+      {% include button.html type=key link=value style="bare" %}<br>
+    {% endfor %}
+  </div>
+{% endcapture %}
 </div>
 
-{% endcapture %}
 
+<div class="unstuck_content">
+
+<!-- Description -->
 {% include float.html content=floatcontent %}
-
 {{ content }}
-
 {% if member.fun-fact %}
 <p>
   Fun fact: {{member.fun-fact}}
 </p>
 {% endif %}
 
-
 <!-- Projects -->
-
 {% include section.html %}
-
 <h1>Projects</h1>
-
 {% assign member_projects = "people: " | append: member.aliases %}
 {% include list.html data="projects" component="projectcard" filters=member_projects %}
 
-
 <!-- Search for publications -->
 
-{% assign aliases = page.aliases
-  | default: page.name
-  | default: page.title
-  | join: ","
-  | split: ","
-  | array_filter
-%}
+{% assign aliases = page.aliases | default: page.name | default: page.title | join: "," | split: ","  | array_filter %}
 
 {% capture search -%}
   research/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
@@ -68,3 +60,5 @@ layout: default
   </a>
 </p>
 -->
+
+</div>
