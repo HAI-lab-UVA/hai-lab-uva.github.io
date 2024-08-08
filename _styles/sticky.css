@@ -1,7 +1,7 @@
 .sticky {
   position: -webkit-sticky !important; /* Safari */
   position: sticky !important;
-  top: 70px !important;
+  top: 85px !important;
   z-index: 100 !important;
   align-self: start; /* For flexbox containers */
   background-color: white;
@@ -10,7 +10,6 @@
 }
 
 .unstuck_content {
-  margin-top: -710px;
   margin-left: 300px; /* Adjust this based on the width of your sidebar */
 }
 
