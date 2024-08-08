@@ -8,12 +8,11 @@
   z-index: 100 !important;
   align-self: start; /* For flexbox containers */
   background-color: white;
-  padding: 10px;
   width: 300px;
   border-right: 1px solid #ddd; /* optional, for a visual separator */
 }
 
 .unstuck_content {
-  margin-top: -800px;
-  margin-left: 330px; /* Adjust this based on the width of your sidebar */
+  margin-top: -710px;
+  margin-left: 300px; /* Adjust this based on the width of your sidebar */
 }
