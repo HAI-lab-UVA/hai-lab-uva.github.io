@@ -1,7 +1,7 @@
 .sticky {
-  position: -webkit-sticky; /* Safari */
-  position: sticky;
-  top: 0;
+  position: -webkit-sticky !important; /* Safari */
+  position: sticky !important;
+  top: 60px !important;
   align-self: start; /* For flexbox containers */
   background-color: white;
   padding: 10px;
@@ -10,8 +10,8 @@
 }
 
 .unstuck_content {
-  margin-top: -100px;
-  margin-left: 320px; /* Adjust this based on the width of your sidebar */
+  margin-top: -800px;
+  margin-left: 300px; /* Adjust this based on the width of your sidebar */
 }
 
 /*# sourceMappingURL=sticky.css.map */
