@@ -1,7 +1,8 @@
 .sticky {
   position: -webkit-sticky !important; /* Safari */
   position: sticky !important;
-  top: 60px !important;
+  top: 70px !important;
+  z-index: 100 !important;
   align-self: start; /* For flexbox containers */
   background-color: white;
   padding: 10px;
