@@ -25,7 +25,7 @@ layout: default
   {% capture maincontent %}
     {% include portrait.html lookup=page.slug %}
   {% endcapture %}
-  {% include float.html content=stickycontent %}
+  {% include float.html content=maincontent %}
   {{ content }}
   {% if member.fun-fact %}
     <p>
