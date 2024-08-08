@@ -6,7 +6,7 @@ layout: default
 
 <div class=sticky>
   {% capture stickycontent %}
-    {% include portrait.html lookup=page.slug portion="profile" %}
+    {% include portrait.html lookup=page.slug %}
     <div>
       {% for link in page.links %}
         {% assign key = link[0] %}
@@ -15,8 +15,7 @@ layout: default
       {% endfor %}
     </div>
   {% endcapture %}
-  {% include float.html content=stickycontent %} <!-- Turns md into html -->
-  {{ content }} <!-- Displays HTML -->
+  {% include float.html content=stickycontent %}
 </div>
 
 <!-- Main -->
@@ -24,10 +23,9 @@ layout: default
   {% include section.html %}
   <!-- Description -->
   {% capture maincontent %}
-    {% include portrait.html lookup=page.slug portion="description" %}
+    {% include portrait.html lookup=page.slug %}
   {% endcapture %}
-  {% include float.html content=maincontent %} <!-- Turns md into html -->
-  {{ content }} <!-- Displays HTML -->
+  {{ content }}
   {% if member.fun-fact %}
     <p>
       Fun fact: {{member.fun-fact}}
