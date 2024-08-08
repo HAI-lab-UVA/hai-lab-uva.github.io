@@ -6,7 +6,7 @@ image: images/Projects/Melodies/melodies-image.jpg
 description: 
 repo: greenelab/lab-website-template
 tags:
-  - Wellness
+  - Behavior Change
   - Sonification
   - Music
 people: 
