@@ -202,6 +202,62 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.2196/47805
+  title: 'Framework for Ranking Machine Learning Predictions of Limited, Multimodal,
+    and Longitudinal Behavioral Passive Sensing Data: Combining User-Agnostic and
+    Personalized Modeling'
+  authors:
+  - Tahsin Mullick
+  - Sam Shaaban
+  - Ana Radovic
+  - Afsaneh Doryab
+  publisher: JMIR AI
+  date: '2024-05-20'
+  link: https://doi.org/gt6nwf
+  image: images/Projects/Moodring/Framework-for-Ranking.png
+  tags:
+  - Mood Ring
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.2196/25807
+  title: 'Predicting Age Groups of Reddit Users Based on Posting Behavior and Metadata:
+    Classification Model Development and Validation'
+  authors:
+  - Robert Chew
+  - Caroline Kery
+  - Laura Baum
+  - Thomas Bukowski
+  - Annice Kim
+  - Mario Navarro
+  publisher: JMIR Public Health and Surveillance
+  date: '2021-03-16'
+  link: https://doi.org/gt6nwg
+  image: images/Projects/Moodring/Predicting-Depression.png
+  tags:
+  - Mood Ring
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/SIEDS52267.2021.9483755
+  title: An Automated Machine Learning Pipeline for Monitoring and Forecasting Mobile
+    Health Data
+  authors:
+  - Anna Bonaquist
+  - Meredith Grehan
+  - Owen Haines
+  - Joseph Keogh
+  - Tahsin Mullick
+  - Neil Singh
+  - Sam Shaaban
+  - Ana Radovic
+  - Afsaneh Doryab
+  publisher: 2021 Systems and Information Engineering Design Symposium (SIEDS)
+  date: '2021-04-30'
+  link: https://doi.org/gt6nwh
+  image: images/Projects/Moodring/SIEDS-2021.png
+  tags:
+  - Mood Ring
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3570346
   title: Sounds of Health
   authors:
@@ -211,7 +267,7 @@
     Technologies
   date: '2022-12-21'
   link: https://doi.org/gt565k
-  image: images/Sounds-Of-Health-Cover.jpg
+  image: images/Projects/Melodies/Sounds-Of-Health-Cover.jpg
   tags:
   - Melodies
   plugin: sources.py
@@ -225,7 +281,7 @@
     Technologies
   date: '2024-05-13'
   link: https://doi.org/gt565m
-  image: images/Changing-Your-Tune-Cover.jpg
+  image: images/Projects/Melodies/Changing-Your-Tune-Cover.jpg
   tags:
   - Melodies
   plugin: sources.py
@@ -241,7 +297,140 @@
   publisher: 2023 Systems and Information Engineering Design Symposium (SIEDS)
   date: '2023-04-27'
   link: https://doi.org/gt565n
-  image: images/2023-SIEDS-Cover.jpg
+  image: images/Projects/Rhythms/2023-SIEDS-Cover.jpg
+  tags:
+  - Rhythms
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3510029
+  title: A Computational Framework for Modeling Biobehavioral Rhythms from Mobile
+    and Wearable Data Streams
+  authors:
+  - Runze Yan
+  - Xinwen Liu
+  - Janine Dutcher
+  - Michael Tumminia
+  - Daniella Villalba
+  - Sheldon Cohen
+  - David Creswell
+  - Kasey Creswell
+  - Jennifer Mankoff
+  - Anind Dey
+  - Afsaneh Doryab
+  publisher: ACM Transactions on Intelligent Systems and Technology
+  date: '2022-03-03'
+  link: https://doi.org/gt6nwj
+  image: images/Projects/Rhythms/A_Computational_Framework.png
+  tags:
+  - Rhythms
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-981-16-2380-6_29
+  title: Daily Trajectory Prediction Using Temporal Frequent Pattern Tree
+  authors:
+  - Mingyi Cai
+  - Runze Yan
+  - Afsaneh Doryab
+  publisher: Lecture Notes in Networks and Systems
+  date: '2021-09-17'
+  link: https://doi.org/gt6nwp
+  image: images/Projects/Rhythms/Daily_Trajectory.png
+  tags:
+  - Rhythms
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-030-82199-9_44
+  title: "Towards a Computational Framework for\_Automated Discovery and Modeling\
+    \ of\_Biological Rhythms from Wearable Data\_Streams"
+  authors:
+  - Runze Yan
+  - Afsaneh Doryab
+  publisher: Lecture Notes in Networks and Systems
+  date: '2021-08-07'
+  link: https://doi.org/gt6nwk
+  image: images/Projects/Rhythms/Towards_Computational_Framework.png
+  tags:
+  - Rhythms
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/SIEDS49339.2020.9106683
+  title: Modeling Biological Rhythms to Predict Mental and Physical Readiness
+  authors:
+  - Ben Carper
+  - Dillon McGowan
+  - Samantha Miller
+  - Joe Nelson
+  - Leah Palombi
+  - Lina Romeo
+  - Kayla Spigelman
+  - Afsaneh Doryab
+  publisher: 2020 Systems and Information Engineering Design Symposium (SIEDS)
+  date: '2020-04-01'
+  link: https://doi.org/gt6nwm
+  image: images/Projects/Rhythms/2020-SIEDS-Cover.png
+  tags:
+  - Rhythms
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2020.08.10.244020
+  title: 'CoRhythMo: A Computational Framework for Modeling Biobehavioral Rhythms
+    from Mobile and Wearable Data Streams'
+  authors:
+  - Runze Yan
+  - Xinwen Liu
+  - Janine M Dutcher
+  - Michael J Tumminia
+  - Daniella Villalba
+  - Sheldon Cohen
+  - David Creswell
+  - Kasey Creswell
+  - Jennifer Mankoff
+  - Anind K Dey
+  - Afsaneh Doryab
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-08-10'
+  link: https://doi.org/gt6nwq
+  image: images/Projects/Rhythms/CoRhythMo.png
+  tags:
+  - Rhythms
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.2196/13209
+  title: 'Identifying Behavioral Phenotypes of Loneliness and Social Isolation with
+    Passive Sensing: Statistical Analysis, Data Mining and Machine Learning of Smartphone
+    and Fitbit Data'
+  authors:
+  - Afsaneh Doryab
+  - Daniella K Villalba
+  - Prerna Chikersal
+  - Janine M Dutcher
+  - Michael Tumminia
+  - Xinwen Liu
+  - Sheldon Cohen
+  - Kasey Creswell
+  - Jennifer Mankoff
+  - John D Creswell
+  - Anind K Dey
+  publisher: JMIR mHealth and uHealth
+  date: '2019-07-24'
+  link: https://doi.org/gg7rqp
+  image: null
+  tags:
+  - Rhythms
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3314395
+  title: Modeling Biobehavioral Rhythms with Passive Sensing in the Wild
+  authors:
+  - Afsaneh Doryab
+  - Anind K. Dey
+  - Grace Kao
+  - Carissa Low
+  publisher: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
+    Technologies
+  date: '2019-03-29'
+  link: https://doi.org/gt6nwn
+  image: images/Projects/Rhythms/Modeling_Biobehavioral_Rhythms-IMWUT2019.jpg
   tags:
   - Rhythms
   plugin: sources.py

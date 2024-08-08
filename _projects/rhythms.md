@@ -2,7 +2,7 @@
 title: Rhythms
 subtitle: Connecting Routines to Wellness
 group: featured
-image: images/Rhythms-Image.jpg
+image: images/Projects/Rhythms/Rhythms-Image.jpg
 description: 
 repo: greenelab/lab-website-template
 tags:

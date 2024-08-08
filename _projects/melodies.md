@@ -2,7 +2,7 @@
 title: Melodies
 subtitle: Communicating wellness information through music.
 group: featured
-image: images/melodies-image.jpg
+image: images/Projects/Melodies/melodies-image.jpg
 description: 
 repo: greenelab/lab-website-template
 tags:

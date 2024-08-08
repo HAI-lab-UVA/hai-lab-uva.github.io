@@ -1,6 +1,6 @@
 ---
 name: Matt Clark
-image: images/Matt-Clark.jpg
+image: images/People/Matt-Clark.jpg
 role: phd
 affiliation: University of Virginia
 aliases:

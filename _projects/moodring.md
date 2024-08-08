@@ -2,7 +2,7 @@
 title: Mood Ring
 subtitle: Detecting Changes in Adolescent Depression
 group: featured
-image: images/Moodring-image.jpg
+image: images/Projects/Moodring/Moodring-image.jpg
 description: 
 repo: greenelab/lab-website-template
 tags:

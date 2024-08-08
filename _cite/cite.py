@@ -5,12 +5,12 @@ cite process to convert sources and metasources into full citations
 import traceback
 from importlib import import_module
 from pathlib import Path
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 from util import *
 
 
 # load environment variables
-load_dotenv()
+# load_dotenv()
 
 
 # error flag

@@ -22,20 +22,88 @@
 # - id: doi:10.7554/eLife.32822
 #   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
 
+# ======== Mood Ring ========
+
+# Framework for Ranking Machine Learning Predictions of Limited, Multimodal, and Longitudinal Behavioral Passive Sensing Data: Combining User-Agnostic and Personalized Modeling
+- id: doi:10.2196/47805
+  image: images/Projects/Moodring/Framework-for-Ranking.png
+  tags:
+    - Mood Ring
+
+# Predicting depression in adolescents using mobile and wearable sensors: multimodal machine learning-based exploratory study
+- id: doi:10.2196/25807
+  image: images/Projects/Moodring/Predicting-Depression.png
+  tags:
+    - Mood Ring
+
+# An Automated Machine Learning Pipeline for Monitoring and Forecasting Mobile Health Data
+- id: doi:10.1109/SIEDS52267.2021.9483755
+  image: images/Projects/Moodring/SIEDS-2021.png
+  tags:
+    - Mood Ring
+
+
+# ======== Melodies ========
+
 # Sounds of Health: Using Personalized Sonification Models to Communicate Health Information
 - id: doi:10.1145/3570346
-  image: images/Sounds-Of-Health-Cover.jpg
+  image: images/Projects/Melodies/Sounds-Of-Health-Cover.jpg
   tags:
     - Melodies
 
 # Changing Your Tune: Lessons for Using Music to Encourage Physical Activity
 - id: doi:10.1145/3659611
-  image: images/Changing-Your-Tune-Cover.jpg
+  image: images/Projects/Melodies/Changing-Your-Tune-Cover.jpg
   tags:
     - Melodies
 
+
+# ======== Rhythms ========
+
 # Personalization in Circadian Rhythm-Based Event Scheduling
 - id: doi:10.1109/SIEDS58326.2023.10137806
-  image: images/2023-SIEDS-Cover.jpg
+  image: images/Projects/Rhythms/2023-SIEDS-Cover.jpg
+  tags:
+    - Rhythms
+
+# A Computational Framework for Modeling Biobehavioral Rhythms from Mobile and Wearable Data Streams
+- id: doi:10.1145/3510029
+  image: images/Projects/Rhythms/A_Computational_Framework.png
+  tags:
+    - Rhythms
+
+# Daily Trajectory Prediction Using Temporal Frequent Pattern Tree
+- id: doi:10.1007/978-981-16-2380-6_29
+  image: images/Projects/Rhythms/Daily_Trajectory.png
+  tags:
+    - Rhythms
+
+# Towards a Computational Framework for Automated Discovery and Modeling of Biological Rhythms from Wearable Data Streams
+- id: doi:10.1007/978-3-030-82199-9_44
+  image: images/Projects/Rhythms/Towards_Computational_Framework.png
+  tags:
+    - Rhythms
+
+# Modeling Biological Rhythms to Predict Mental and Physical Readiness
+- id: doi:10.1109/SIEDS49339.2020.9106683
+  image: images/Projects/Rhythms/2020-SIEDS-Cover.png
+  tags:
+    - Rhythms
+
+# CoRhythMo: A Computational Framework for Modeling Biobehavioral Rhythms from Mobile and Wearable Data Streams
+- id: doi:10.1101/2020.08.10.244020
+  image: images/Projects/Rhythms/CoRhythMo.png
+  tags:
+    - Rhythms
+
+# Identifying Behavioral Phenotypes of Loneliness and Social Isolation with Passive Sensing: Statistical Analysis, Data Mining and Machine Learning of Smartphone and Fitbit Data
+- id: doi:10.2196/13209
+  image: 
+  tags:
+    - Rhythms
+
+# Modeling Biobehavioral Rhythms with Passive Sensing in the Wild: A Case Study to Predict Readmission Risk after Pancreatic Surgery
+- id: doi:10.1145/3314395
+  image: images/Projects/Rhythms/Modeling_Biobehavioral_Rhythms-IMWUT2019.jpg
   tags:
     - Rhythms

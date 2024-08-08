@@ -1,6 +1,6 @@
 ---
 name: Sabit Ahmed
-image: images/sabit-ahmed.jpg
+image: images/People/sabit-ahmed.jpg
 role: phd
 affiliation: University of Virginia
 aliases:
