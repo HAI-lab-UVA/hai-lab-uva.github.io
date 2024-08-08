@@ -21,9 +21,13 @@ layout: default
   | array_filter
 %}
 
+<h1>Publications</h1>
+
 {% assign project_pubs_filter = "tags: " | append: page.title %}
 {% include list.html data="citations" component="citation" style="rich" filters=project_pubs_filter %}
 
+{% include section.html %}
+<h1>Project Team</h1>
 {% assign project_team_filter = "projects: " | append: page.title %}
 {% include list.html data="members" component="portrait" filters=project_team_filter %}
 
