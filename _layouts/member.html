@@ -25,13 +25,13 @@ layout: default
   {% capture maincontent %}
     {% include portrait.html lookup=page.slug %}
   {% endcapture %}
+  {% include float.html content=stickycontent %}
   {{ content }}
   {% if member.fun-fact %}
     <p>
       Fun fact: {{member.fun-fact}}
     </p>
   {% endif %}
-
   
   {% include section.html %}
   <!-- Projects -->
