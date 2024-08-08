@@ -19,14 +19,10 @@ layout: default
 </div>
 
 <!-- Main -->
+{% include section.html %}
 <div class="unstuck_content">
-  {% include section.html %}
   <!-- Description -->
-  {% capture maincontent %}
-    {% include portrait.html lookup=page.slug %}
-  {% endcapture %}
-  {% include float.html content=maincontent %}
-  {{ content }}
+  {% include portrait.html lookup=page.slug %}
   {% if member.fun-fact %}
     <p>
       Fun fact: {{member.fun-fact}}
