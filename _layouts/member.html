@@ -21,7 +21,7 @@ layout: default
 <div class="unstuck_content">
   <!-- Description -->
   <p>
-    {{member.description}}
+    {{ page.content | markdownify }}
   </p>
   {% if member.fun-fact %}
     <p>
@@ -32,7 +32,7 @@ layout: default
   {% include section.html %}
   <!-- Projects -->
   <h1>Projects</h1>
-  {% assign member_projects = "people: " | append: member.aliases %}
+  {% assign member_projects = "people: " | append: page.aliases %}
   {% include list.html data="projects" component="projectcard" filters=member_projects %}
 
   <!-- Search for publications -->
