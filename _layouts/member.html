@@ -5,7 +5,7 @@ layout: default
 <!-- [IN PROGRESS] Profile side bar -->
 
 <div class=sticky>
-  {% capture floatcontent %}
+  {% capture stickycontent %}
     {% include portrait.html lookup=page.slug portion="profile" %}
     <div>
       {% for link in page.links %}
@@ -15,17 +15,18 @@ layout: default
       {% endfor %}
     </div>
   {% endcapture %}
-  {% include float.html content=floatcontent %} <!-- Turns md into html -->
+  {% include float.html content=stickycontent %} <!-- Turns md into html -->
   {{ content }} <!-- Displays HTML -->
 </div>
 
+<!-- Main -->
 <div class="unstuck_content">
-  <!-- Description -->
   {% include section.html %}
-  {% capture floatcontent %}
+  <!-- Description -->
+  {% capture maincontent %}
     {% include portrait.html lookup=page.slug portion="description" %}
   {% endcapture %}
-  {% include float.html content=floatcontent %} <!-- Turns md into html -->
+  {% include float.html content=maincontent %} <!-- Turns md into html -->
   {{ content }} <!-- Displays HTML -->
   {% if member.fun-fact %}
     <p>
@@ -33,8 +34,9 @@ layout: default
     </p>
   {% endif %}
 
-  <!-- Projects -->
+  
   {% include section.html %}
+  <!-- Projects -->
   <h1>Projects</h1>
   {% assign member_projects = "people: " | append: member.aliases %}
   {% include list.html data="projects" component="projectcard" filters=member_projects %}
