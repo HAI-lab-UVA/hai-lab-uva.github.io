@@ -1,15 +1,22 @@
 ---
 title: Melodies
-subtitle: a subtitle
+subtitle: Communicating wellness information through music.
 group: featured
-image: images/Matt-Clark.jpg
-description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+image: images/melodies-image.jpg
+description: 
 repo: greenelab/lab-website-template
 tags:
-  - Matt Clark
+  - Wellness
+  - Sonification
+  - Music
 people: 
   - M. Clark
+  - J. Kim
+  - E. Hamilton
+  - J. Bierly
+  - A. Chakrabarti
+  - K. Rukavina
+  - J. Chin
 ---
   
-
-Matt Clark is a fourth year PhD Candidate in the Computer Science Department. He earned his Bachelor of Arts in Computer Science from Skidmore College in May 2021, and his Masters of Computer Science from the University of Virginia in August 2023. His work focuses on designing systems that leverage personalized affective messaging to enable more meaningful communication. 
+Hearing music activates unique parts of the brain, which are commonly associated with triggering emotions. Melodies investigates whether this connection can be leveraged to help people better internalize their wellbeing. We seek to develop new sonification methods to embed wellness information into music, and deploy them with participants to determine whether they can successfully prompte healthier behavior.
