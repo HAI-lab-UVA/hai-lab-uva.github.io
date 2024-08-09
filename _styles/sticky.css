@@ -5,12 +5,12 @@
   z-index: 100 !important;
   align-self: start; /* For flexbox containers */
   background-color: white;
-  width: 300px;
+  width: 175px;
   border-right: 1px solid #ddd; /* optional, for a visual separator */
 }
 
 .unstuck_content {
-  margin-left: 300px; /* Adjust this based on the width of your sidebar */
+  margin-left: 215px;
 }
 
 /*# sourceMappingURL=sticky.css.map */
