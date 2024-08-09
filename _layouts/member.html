@@ -13,7 +13,7 @@ layout: default
         {% include button.html type=key link=value style="bare" %}<br>
     {% endfor %}
   {% endcapture %}
-  {% include float.html content=stickycontent %}
+  {% include float.html content=stickycontent sidebar=true%}
 </div>
 
 <!-- Main -->
@@ -22,14 +22,16 @@ layout: default
   <!-- Description -->
   {{ page.content | markdownify }}
   {% if member.fun-fact %}
-    <p>
+    <p style="margin-bottom: 0">
       Fun fact: {{member.fun-fact}}
     </p>
   {% endif %}
   
   {% include section.html %}
   <!-- Projects -->
-  <h1>Projects</h1>
+  <h1 style="margin-top: 0; text-decoration: underline;">
+    Projects
+  </h1>
   {% assign member_projects = "people: " | append: page.aliases %}
   {% include list.html data="projects" component="projectcard" filters=member_projects %}
 

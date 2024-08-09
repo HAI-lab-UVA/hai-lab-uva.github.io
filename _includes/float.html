@@ -6,6 +6,9 @@
   {% if include.clear %}
     data-clear
   {% endif %}
+  {% if include.sidebar %}
+    sidebar
+  {% endif %}
 >
   {{ include.content | markdownify }}
 </div>

@@ -27,6 +27,11 @@ $wrap: 600px;
   margin: 0;
 }
 
+.float[sidebar] {
+  float: unset;
+  margin: 0;
+}
+
 @media (max-width: $wrap) {
   .float {
     float: unset !important;
