@@ -2,7 +2,7 @@
   position: -webkit-sticky !important; /* Safari */
   position: sticky !important;
   top: 85px !important;
-  z-index: 100 !important;
+  z-index: 1 !important;
   align-self: start; /* For flexbox containers */
   background-color: white;
   width: 220px;
@@ -11,7 +11,8 @@
 }
 
 .unstuck_content {
-  margin-left: 215px;
+  margin-left: 225px;
+  margin-top: -611px;
 }
 
 /*# sourceMappingURL=sticky.css.map */
