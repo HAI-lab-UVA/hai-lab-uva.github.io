@@ -7,7 +7,7 @@
   top: 85px !important;
   z-index: 1 !important;
   align-self: start; /* For flexbox containers */
-  background-color: white;
+  background-color: var(--background);
   width: 220px;
   height: 611px;
   border-right: 1px solid #ddd; /* optional, for a visual separator */
