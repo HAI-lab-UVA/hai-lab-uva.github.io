@@ -26,6 +26,9 @@
     {% if background %}
       style="--image: url('{{ background | relative_url }}')"
     {% endif %}
+    {% if include.slim-right %}
+      slim-right=true
+    {% endif %}
   >
     {{ section }}
   </section>

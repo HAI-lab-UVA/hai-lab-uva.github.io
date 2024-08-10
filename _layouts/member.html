@@ -6,7 +6,7 @@ layout: default
 
 <div class=sticky>
   {% capture stickycontent %}
-    {% include portrait.html lookup=page.slug %}
+    {% include portrait.html lookup=page.slug slim-top=true %}
     {% for link in page.links %}
         {% assign key = link[0] %}
         {% assign value = link[1] %}
@@ -18,7 +18,7 @@ layout: default
 
 <!-- Main -->
 <div class="unstuck_content">
-  {% include section.html %}
+  {% include section.html slim-right=true %}
   <!-- Description -->
   {{ page.content | markdownify }}
   {% if member.fun-fact %}
@@ -27,7 +27,7 @@ layout: default
     </p>
   {% endif %}
   
-  {% include section.html %}
+  {% include section.html slim-right=true %}
   <!-- Projects -->
   <h1 style="margin-top: 0; text-decoration: underline;">
     Projects
