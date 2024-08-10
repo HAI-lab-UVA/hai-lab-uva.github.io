@@ -1,6 +1,10 @@
 ---
 ---
 
+:root {
+  --sidebarwidth: max(150px, min(25%, 250px));
+}
+
 .sticky {
   position: -webkit-sticky !important; /* Safari */
   position: sticky !important;
@@ -8,12 +12,12 @@
   z-index: 1 !important;
   align-self: start; /* For flexbox containers */
   background-color: var(--background);
-  width: 220px;
-  height: 611px;
-  border-right: 1px solid #ddd; /* optional, for a visual separator */
+  width: var(--sidebarwidth);
+  height: 480px;
+  border-right: 1px solid #ddd;
 }
 
 .unstuck_content {
-  margin-left: 225px;
-  margin-top: -630px;
+  margin-left: calc(var(--sidebarwidth)+5);
+  margin-top: -500px;
 }
