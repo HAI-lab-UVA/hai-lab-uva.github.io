@@ -2,22 +2,39 @@
 ---
 
 :root {
-  --sidebarwidth: max(150px, min(25%, 250px));
+  --profilewidth: max(150px, min(25%, 250px));
+  --cardwidth: max(220px, min(25%, 280px))
 }
 
-.sticky {
+.sticky-profile {
   position: -webkit-sticky !important; /* Safari */
   position: sticky !important;
   top: 105px !important;
   z-index: 1 !important;
   align-self: start; /* For flexbox containers */
   background-color: var(--background);
-  width: var(--sidebarwidth);
+  width: var(--profilewidth);
   height: 480px;
   border-right: 1px solid #ddd;
 }
 
-.unstuck_content {
-  margin-left: calc(var(--sidebarwidth) + 5px);
+.sticky-card {
+  position: -webkit-sticky !important; /* Safari */
+  position: sticky !important;
+  top: 110px !important;
+  z-index: 1 !important;
+  align-self: start; /* For flexbox containers */
+  background-color: var(--background);
+  width: var(--cardwidth);
+  height: 411px;
+}
+
+.unstuck-content-profile {
+  margin-left: calc(var(--profilewidth) + 5px);
   margin-top: -500px;
+}
+
+.unstuck-content-project {
+  margin-left: calc(var(--cardwidth) + 5px);
+  margin-top: -430px;
 }

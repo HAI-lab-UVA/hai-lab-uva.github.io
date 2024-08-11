@@ -4,7 +4,7 @@ layout: default
 
 <!-- [IN PROGRESS] Profile side bar -->
 
-<div class=sticky>
+<div class=sticky-profile>
   {% capture stickycontent %}
     {% include portrait.html lookup=page.slug slim-top=true %}
     {% for link in page.links %}
@@ -17,7 +17,7 @@ layout: default
 </div>
 
 <!-- Main -->
-<div class="unstuck_content" style="margin-right: -20px;">
+<div class="unstuck-content-profile" style="margin-right: -20px;">
   {% include section.html slim-right=true %}
   <!-- Description -->
   {{ page.content | markdownify }}
