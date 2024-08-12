@@ -16,8 +16,8 @@
   vertical-align: top;
 }
 
-.card[data-style="small"] {
-  width: 250px;
+.card[data-style="big"] {
+  max-width: 550px !important;
 }
 
 .card-image img {

@@ -2,14 +2,13 @@
 layout: default
 ---
 
-{% capture floatcontent %}
+
 <div class="sticky-card">
-  {% include projectcard.html lookup=page.slug %}
+  {% capture floatcontent %}
+    {% include projectcard.html lookup=page.slug big=true %}
+  {% endcapture %}
+  {% include float.html content=floatcontent sidebar=true %}
 </div>
-
-{% endcapture %}
-
-{% include float.html content=floatcontent sidebar=true %}
 
 {{ content }}
 

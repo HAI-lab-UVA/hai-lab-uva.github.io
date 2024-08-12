@@ -7,7 +7,11 @@
   {% assign project = include %}
 {% endif %}
 
-<div class="card">
+<div class="card"
+    {% if include.big %}
+      data-style="big"
+    {% endif %}
+>
   <a
     {% if page.slug != project.slug %}
       href="{{ project.url | relative_url }}"
