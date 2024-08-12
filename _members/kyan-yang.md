@@ -2,7 +2,7 @@
 name: Kyan Yang
 image:
 role: intern
-affiliation: James Madison High School
+affiliation: Madison High School
 aliases:
   - K. Yang
 links:
@@ -11,7 +11,6 @@ fun-fact:
 projects: 
   - Trust
 ---
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
 Elit at imperdiet dui accumsan.
