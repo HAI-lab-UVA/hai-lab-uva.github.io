@@ -1,5 +1,5 @@
 :root {
-  --profilewidth: max(150px, min(25%, 250px));
+  --profilewidth: max(150px, min(25%, 245px));
   --cardwidth: max(220px, min(25%, 280px)) ;
 }
 
