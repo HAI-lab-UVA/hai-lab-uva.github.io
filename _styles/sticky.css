@@ -23,7 +23,7 @@
   align-self: start; /* For flexbox containers */
   background-color: var(--background);
   width: var(--cardwidth);
-  height: 411px;
+  height: 353px;
 }
 
 .unstuck-content-profile {
@@ -33,7 +33,7 @@
 
 .unstuck-content-project {
   margin-left: calc(var(--cardwidth) + 5px);
-  margin-top: -430px;
+  margin-top: -353px;
 }
 
 /*# sourceMappingURL=sticky.css.map */
