@@ -1,6 +1,6 @@
 ---
 name: Jonathan Bierly
-image: images/People/Matt-Clark.jpg
+image:
 role: undergrad
 affiliation: University of Virginia
 aliases:
