@@ -10,6 +10,7 @@
 {% assign sections = content | split: "<!-- section break -->" | array_filter %}
 
 {% for section in sections %}
+  {% assign slim-right = section | regex_scan: "slim-right: (.*);" | default: "false" %}
   {% assign dark = section | regex_scan: "dark: (.*);" | default: "" %}
   {% assign background = section
     | regex_scan: "background: (.*);"
@@ -26,7 +27,7 @@
     {% if background %}
       style="--image: url('{{ background | relative_url }}')"
     {% endif %}
-    {% if include.slim-right %}
+    {% if slim-right == "true" %}
       slim-right=true
     {% endif %}
   >
