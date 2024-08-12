@@ -7,7 +7,7 @@
   position: -webkit-sticky !important; /* Safari */
   position: sticky !important;
   top: 105px !important;
-  z-index: 1 !important;
+  z-index: 2 !important;
   align-self: start; /* For flexbox containers */
   background-color: var(--background);
   width: var(--profilewidth);
@@ -19,7 +19,7 @@
   position: -webkit-sticky !important; /* Safari */
   position: sticky !important;
   top: 110px !important;
-  z-index: 1 !important;
+  z-index: 2 !important;
   align-self: start; /* For flexbox containers */
   background-color: var(--background);
   width: var(--cardwidth);
@@ -32,8 +32,8 @@
 }
 
 .unstuck-content-project {
-  margin-left: calc(var(--cardwidth) + 5px);
-  margin-top: -353px;
+  margin-left: calc(var(--cardwidth) + 60px);
+  margin-top: -400px;
 }
 
 /*# sourceMappingURL=sticky.css.map */
