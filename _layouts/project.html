@@ -10,20 +10,22 @@ layout: default
   {% include float.html content=floatcontent sidebar=true %}
 </div>
 
-{{ content }}
+<div class="unstuck-content-project">
+  {{ content }}
 
-{% assign aliases = page.aliases
-  | default: page.name
-  | default: page.title
-  | join: ","
-  | split: ","
-  | array_filter
-%}
+  {% assign aliases = page.aliases
+    | default: page.name
+    | default: page.title
+    | join: ","
+    | split: ","
+    | array_filter
+  %}
 
-<h1>Publications</h1>
+  <h1>Publications</h1>
 
-{% assign project_pubs_filter = "tags: " | append: page.title %}
-{% include list.html data="citations" component="citation" style="rich" filters=project_pubs_filter %}
+  {% assign project_pubs_filter = "tags: " | append: page.title %}
+  {% include list.html data="citations" component="citation" style="rich" filters=project_pubs_filter %}
+</div>
 
 {% include section.html %}
 <h1>Project Team</h1>
