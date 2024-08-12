@@ -1,7 +1,7 @@
 ---
 name: Kyan Yang
 image:
-role: Intern
+role: intern
 affiliation: James Madison High School
 aliases:
   - K. Yang
