@@ -4,7 +4,7 @@ subtitle: Connecting Routines to Wellness
 group: featured
 image: images/Projects/Rhythms/Rhythms-Image.jpg
 description: 
-repo: greenelab/lab-website-template
+repo:
 tags:
   - Circadian Rhythms
   - Routines

@@ -4,7 +4,7 @@ subtitle: Communicating wellness information through music.
 group: featured
 image: images/Projects/Melodies/melodies-image.jpg
 description: 
-repo: greenelab/lab-website-template
+repo:
 tags:
   - Behavior Change
   - Sonification

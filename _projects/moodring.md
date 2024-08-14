@@ -4,7 +4,7 @@ subtitle: Detecting Changes in Adolescent Depression
 group: featured
 image: images/Projects/Moodring/Moodring-Image.png
 description: 
-repo: greenelab/lab-website-template
+repo: 
 tags:
   - Depression
   - Anxiety
