@@ -92,8 +92,9 @@ for plugin in plugins:
             if plugin.stem != "sources":
                 log(f"{len(expanded)} source(s)", 3)
 
-
+log(sources)
 log("Merging sources by id")
+log(len(sources))
 
 # merge sources with matching (non-blank) ids
 for a in range(0, len(sources)):
