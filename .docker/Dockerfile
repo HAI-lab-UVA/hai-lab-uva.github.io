@@ -26,5 +26,6 @@ EXPOSE 4000
 EXPOSE 35729
 
 # run jekyll and cite process
-COPY .docker/entrypoint.sh /var
+ADD https://raw.githubusercontent.com/HAI-lab-UVA/hai-lab-uva.github.io/main/.docker/entrypoint.sh /var
+RUN ["chmod", "+x", "/var/entrypoint.sh"]
 CMD [ "/var/entrypoint.sh" ]
