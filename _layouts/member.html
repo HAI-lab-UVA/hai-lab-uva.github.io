@@ -40,7 +40,7 @@ layout: default
   {% assign aliases = page.aliases | default: page.name | default: page.title | join: "," | split: ","  | array_filter %}
 
   {% capture search -%}
-    research/?search="{{page.name}}"
+    research/?search="{{ page.name | default: page.title }}"
   {%- endcapture %}
 
   <p class="center">
