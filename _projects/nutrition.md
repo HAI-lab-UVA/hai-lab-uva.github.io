@@ -2,7 +2,7 @@
 title: Nutrition
 subtitle: Leveraging ubiquitous devices to gain insights into micronutrient status.
 group: featured
-image: images\Projects\Nutrition\nutrition-graphic.png
+image: images/Projects/Nutrition/nutrition-graphic.png
 description: 
 repo: 
 tags:
