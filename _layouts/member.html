@@ -33,6 +33,9 @@ layout: default
     Projects
   </h1>
   {% assign member_projects = "people: " | append: page.aliases %}
+
+  {{ member_projects }}
+
   {% include list.html data="projects" component="projectcard" filters=member_projects %}
 
   <!-- Search for publications -->
