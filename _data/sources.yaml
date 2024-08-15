@@ -107,3 +107,13 @@
   image: images/Projects/Rhythms/Modeling_Biobehavioral_Rhythms-IMWUT2019.jpg
   tags:
     - Rhythms
+
+# ======== Nutrition ========
+# TODO: Review paper preprint?
+
+# ======== Injustice ========
+
+# Why Algorithms Remain Unjust: Power Structures Surrounding Algorithmic Activity
+- id: arXiv:2405.18461
+  image: images/Papers/Algorithmic Power Configuration.png
+  type: preprint
