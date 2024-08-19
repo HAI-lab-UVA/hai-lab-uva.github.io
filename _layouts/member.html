@@ -29,9 +29,8 @@ layout: default
   
   {% include section.html slim-right=true %}
   <!-- Projects -->
-  <h1 style="margin-top: 0; text-decoration: underline;">
-    Projects
-  </h1>
+  <h1">Projects</h1>
+
   <!-- BUG: Does not filter for projects -->
   {% assign member_projects = "people: " | append: member.aliases %}
   <p>{{member_projects}}</p>
@@ -50,9 +49,16 @@ layout: default
   {% endfor %} -->
 
   <!-- Search for publications -->
+  <h1>Publications</h1>
+  {% assign member_pubs_filter = "authors: " | append: member.name %}
+  {% include list.html data="citations" component="citation" style="rich" filters=member_pubs_filter %}
 
-  {% assign aliases = page.aliases | default: page.name | default: page.title | join: "," | split: ","  | array_filter %}
+  <h1>News</h1>
+  {% assign member_news_filter = "author:" | append: member.name | downcase | split: " " | join: "-" %}
+  {% include list.html data="posts" component="post-excerpt" filters=member_news_filter %}
 
+  <!-- {% assign aliases = page.aliases | default: page.name | default: page.title | join: "," | split: ","  | array_filter %} 
+ 
   {% capture search -%}
     research/?search="{{ page.name | default: page.title }}"
   {%- endcapture %}
@@ -65,13 +71,12 @@ layout: default
 
   {% capture search -%}
     news/?search={{ page.name }}
-  {%- endcapture %}
+  {%- endcapture %} 
 
-  <!--
   <p class="center">
     <a href="{{ search | relative_url }}">
       See {{ page.name | default: page.title }}'s posts on the Blog page
     </a>
-  </p>
-  -->
+  </p> -->
+ 
 </div>
