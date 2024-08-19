@@ -30,23 +30,8 @@ layout: default
   {% include section.html slim-right=true %}
   <!-- Projects -->
   <h1">Projects</h1>
-
-  <!-- BUG: Does not filter for projects -->
-  {% assign member_projects = "people: " | append: member.aliases %}
-  <p>{{member_projects}}</p>
+  {% assign member_projects = "people:" | append: member.aliases | remove: "[" | remove: "]" %}
   {% include list.html data="projects" component="projectcard" filters=member_projects %}
-
-  <!-- {% for project in member.projects %}
-    {% assign member_project = "title: " | append: project %}
-    {{ member_project }}
-    {% include projectcard.html filters=member_project %}
-  {% endfor %} -->
-  <!-- Displays a number of blank cards equal to the number of the member's projects -->
-  <!-- {% for project in member.projects %}
-    {% assign member_project = "title: " | append: project %}
-    {{ member_project }}
-    {% include list.html data="projects" component="projectcard" filters=member_project %}
-  {% endfor %} -->
 
   <!-- Search for publications -->
   <h1>Publications</h1>
