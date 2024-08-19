@@ -282,3 +282,37 @@
   type: preprint
   plugin: sources.py
   file: sources.yaml
+- id: 10.1109/RO-MAN53752.2022.9900581
+  title: A Self Learning System for Emotion Awareness and Adaptation in Humanoid Robots
+  authors:
+  - Sudhir Shenoy
+  - Yusheng Jiang
+  - Tyler Lynch
+  - Lauren Isabelle Manuel
+  - Afsaneh Doryab
+  publisher: 2022 31st IEEE International Conference on Robot and Human Interactive
+    Communication (RO-MAN)
+  date: '2022-08-29'
+  link: https://doi.org/gt7d3z
+  image: images/Projects/Adaptive_Robots/self_learning.jpg
+  tags:
+  - Adaptive Humanoid Robots
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3434074.3447224
+  title: Adaptive Humanoid Robots for Pain Management in Children
+  authors:
+  - Sudhir Shenoy
+  - Yueyue Hou
+  - Xinran Wang
+  - Fateme Nikseresht
+  - Afsaneh Doryab
+  publisher: Companion of the 2021 ACM/IEEE International Conference on Human-Robot
+    Interaction
+  date: '2021-03-08'
+  link: https://doi.org/gt7d32
+  image: images/Projects/Adaptive_Robots/pain.jpg
+  tags:
+  - Adaptive Humanoid Robots
+  plugin: sources.py
+  file: sources.yaml
