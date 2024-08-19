@@ -10,7 +10,12 @@
 
 <div class="post-excerpt-container">
   <div class="post-excerpt">
-    {% assign url = post.url %}
+    {% if post.redirect %}
+      {% assign url = post.redirect %}
+    {% else %}
+      {% assign url = post.url %}
+    {% endif %}
+
     {% assign title = post.title %}
     {% assign image = post.image %}
 

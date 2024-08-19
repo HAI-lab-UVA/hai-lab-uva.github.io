@@ -1,6 +1,7 @@
 ---
 title: UVA Today Feature
 author: andrew-balch
+redirect: "https://news.virginia.edu/content/peek-summer-research-engineering-deans-fellows"
 tags:
   - In the news
 ---
