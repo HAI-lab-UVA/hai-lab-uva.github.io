@@ -22,15 +22,15 @@ ms:
   # icon: fa-solid fa-graduation-cap
   description: Masters Student
 
-phd_alum:
+alum_phd:
   # icon: fa-solid fa-graduation-cap
   description: PhD Student
 
-undergrad_alum:
+alum_undergrad:
   # icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
-ms_alum:
+alum_ms:
   # icon: fa-solid fa-graduation-cap
   description: Masters Student
 

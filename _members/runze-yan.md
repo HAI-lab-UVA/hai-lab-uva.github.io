@@ -1,7 +1,7 @@
 ---
 name: Runze Yan
 image: images/People/Runze.jpg
-role: phd_alum
+role: alum_phd
 affiliation: Emory University
 aliases:
   - R. Yan
