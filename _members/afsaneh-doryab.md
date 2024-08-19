@@ -1,6 +1,6 @@
 ---
 name: Afsaneh Doryab
-image: images/afsaneh.png
+image: images/People/afsaneh.png
 role: pi
 affiliation: University of Virginia
 aliases:
