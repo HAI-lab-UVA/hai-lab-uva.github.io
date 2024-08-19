@@ -27,3 +27,8 @@ It is recommended to check the above template documentation for more detailed in
 ### Managing team members
 
 Each team member that should be shown on the "Team" page should have their own markdown file under the [``_members``](_members) directory. Adding and removing these files updates the list shown on the page.
+
+### News post link redirects
+Posts on the news page can redirect to URLs other than the page associated with that individual post. This is useful when you would like a user to be automatically sent to a paper or news feature when they click on the post exerpt. To do this, set the ```redirect``` field in the header of the markdown file like so:
+
+```redirect: https://<url>```
