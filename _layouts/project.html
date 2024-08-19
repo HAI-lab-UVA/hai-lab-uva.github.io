@@ -29,6 +29,10 @@ layout: default
 
   {% assign project_pubs_filter = "tags: " | append: page.title %}
   {% include list.html data="citations" component="citation" style="rich" filters=project_pubs_filter %}
+
+  <h1>News</h1>
+  {% assign project_news_filter = "tags: " | append: page.title %}
+  {% include list.html data="posts" component="post-excerpt" filters=project_news_filter %}
 </div>
 
 {% include section.html %}
