@@ -20,6 +20,11 @@ layout: default
     | array_filter
   %}
 
+  <h1>Contact</h1>
+  {% assign contact="aliases: " | append: page.contact %}
+
+  If you feel like your skills and interests are aligned with this project, please reach out to {% include list.html data="members" component="member_link" filters=contact %} to get involved!
+
   <h1>Publications</h1>
 
   {% assign project_pubs_filter = "tags: " | append: page.title %}

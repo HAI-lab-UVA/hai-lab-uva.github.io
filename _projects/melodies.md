@@ -9,6 +9,7 @@ tags:
   - Behavior Change
   - Sonification
   - Music
+contact: M. Clark
 people: 
   - M. Clark
   - J. Kim

@@ -9,6 +9,7 @@ tags:
   - mHealth
   - Interdiciplinary
   - HCI
+contact: A. Balch
 people: 
   - A. Balch
   - M. Cardei

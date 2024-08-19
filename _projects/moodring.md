@@ -9,8 +9,7 @@ tags:
   - Depression
   - Anxiety
   - Affective Forecasting
-contact:
-  - M. Clark
+contact: M. Clark
 people: 
   - M. Clark
   - M. Cardei

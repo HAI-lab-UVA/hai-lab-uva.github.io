@@ -9,8 +9,7 @@ tags:
   - Circadian Rhythms
   - Routines
   - Wellness
-contact:
-  - M. Clark
+contact: M. Clark
 people: 
   - M. Clark
   - M. Cardei
