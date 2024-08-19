@@ -1,6 +1,6 @@
 ---
 name: Runze Yan
-image: https://www.linkedin.com/in/runze-yan/overlay/photo/
+image: images/People/Runze.jpg
 role: phd_alum
 affiliation: Emory University
 aliases:
