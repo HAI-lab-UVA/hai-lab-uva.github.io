@@ -1,7 +1,7 @@
 ---
 title: Rhythms
 subtitle: Connecting Routines to Wellness
-group: featured
+group: ongoing
 image: images/Projects/Rhythms/Rhythms-Image.jpg
 description: 
 repo:

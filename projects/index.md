@@ -7,21 +7,16 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
 {% include section.html %}
 
 {% include search-box.html %}
 
-{% include tags.html tags="tag 1, tag 2, tag 3" %}
-
 {% include search-info.html %}
 
-## Featured
+## Ongoing
 
-{% include list.html data="projects" component="projectcard" filters="group: featured" %}
+{% include list.html data="projects" component="projectcard" filters="group: ongoing" %}
 
-## More
+## Past
 
-{% include list.html data="projects" component="projectcard" filters="group: " style="small" %}
+{% include list.html data="projects" component="projectcard" filters="group: past" style="small" %}

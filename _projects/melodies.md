@@ -1,6 +1,7 @@
 ---
 title: Melodies
 subtitle: Communicating wellness information through music.
+group: ongoing
 image: images/Projects/Melodies/melodies-image.jpg
 description: 
 repo:
