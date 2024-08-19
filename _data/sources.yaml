@@ -129,3 +129,17 @@
 - id: arXiv:2405.18461
   image: images/Papers/injustice.png
   type: preprint
+
+# ======= Adaptive Humanoid Robots =======
+
+# A Self Learning System for Emotion Awareness and Adaptation in Humanoid Robots
+- id: 10.1109/RO-MAN53752.2022.9900581
+  image: images/Projects/Adaptive_Robots/self_learning.jpg
+  tags:
+    - Adaptive Humanoid Robots
+
+# Adaptive Humanoid Robots for Pain Management
+- id: doi:10.1145/3434074.3447224
+  image: images/Projects/Adaptive_Robots/pain.jpg
+  tags:
+    - Adaptive Humanoid Robots

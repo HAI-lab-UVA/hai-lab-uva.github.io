@@ -1,6 +1,6 @@
 ---
 name: Sid Shenoy
-image: images/People/sid.JPG
+image: images/People/Sid.JPG
 role: alum_phd
 affiliation: National Academy of Engineering
 aliases:
