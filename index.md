@@ -14,7 +14,7 @@ By harnessing the capabilities and data of everyday mobile technology, the Human
 
 {% capture text %}
 
-Published research.
+<!-- Published research. -->
 
 {%
   include button.html
@@ -29,7 +29,7 @@ Published research.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Projects/Rhythms/CoRhythMo.png"
   link="research"
   title="Our Research"
   text=text
@@ -37,7 +37,7 @@ Published research.
 
 {% capture text %}
 
-Ongoing projects.
+<!-- Ongoing projects. -->
 
 {%
   include button.html
@@ -52,7 +52,7 @@ Ongoing projects.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Projects/Moodring/Moodring-Image.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -62,7 +62,7 @@ Ongoing projects.
 
 {% capture text %}
 
-Lab members.
+<!-- Lab members. -->
 
 {%
   include button.html
@@ -77,7 +77,7 @@ Lab members.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/People/afsaneh.png"
   link="team"
   title="Our Team"
   text=text
