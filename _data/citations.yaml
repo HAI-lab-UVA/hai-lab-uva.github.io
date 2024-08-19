@@ -212,7 +212,7 @@
   publisher: JMIR mHealth and uHealth
   date: '2019-07-24'
   link: https://doi.org/gg7rqp
-  image: null
+  image: images/Papers/behavioral-phenotypes.png
   tags:
   - Rhythms
   plugin: sources.py
