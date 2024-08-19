@@ -9,11 +9,11 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: phd" %}
-{% include list.html data="members" component="portrait" filters="role: ms" %}
-{% include list.html data="members" component="portrait" filters="role: undergrad" %}
-{% include list.html data="members" component="portrait" filters="role: intern" %}
+{% include list.html data="members" component="portrait" filters="role: ^pi$" %}
+{% include list.html data="members" component="portrait" filters="role: ^phd$" %}
+{% include list.html data="members" component="portrait" filters="role: ^ms$" %}
+{% include list.html data="members" component="portrait" filters="role: ^undergrad$" %}
+{% include list.html data="members" component="portrait" filters="role: ^intern$" %}
 
 # Alumni
 
