@@ -6,9 +6,9 @@ affiliation: University of Virginia
 aliases:
   - M. Clark
 links:
-  home-page: www.mclark.site
+  home-page: https://www.mclark.site
   orcid: 0000-0002-2033-1427
-  google-scholar: https://scholar.google.com/?inst=13751854044476728232
+  google-scholar: FrnZiyAAAAAJ&inst=13751854044476728232
   email: wdd6ts@virginia.edu
 fun-fact: I am an avid board game collector. I currently have over 50!
 projects: 
