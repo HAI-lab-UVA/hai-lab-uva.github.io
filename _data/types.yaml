@@ -20,7 +20,19 @@ undergrad:
 
 ms:
   # icon: fa-solid fa-graduation-cap
-  description: MS Student
+  description: Masters Student
+
+phd_alum:
+  # icon: fa-solid fa-graduation-cap
+  description: PhD Student
+
+undergrad_alum:
+  # icon: fa-solid fa-user-graduate
+  description: Undergraduate Student
+
+ms_alum:
+  # icon: fa-solid fa-graduation-cap
+  description: Masters Student
 
 intern:
   description: Intern
