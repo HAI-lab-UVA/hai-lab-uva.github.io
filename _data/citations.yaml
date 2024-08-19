@@ -84,6 +84,44 @@
   - Melodies
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.2196/47194
+  title: 'Identifying Links Between Productivity and Biobehavioral Rhythms Modeled
+    From Multimodal Sensor Streams: Exploratory Quantitative Study'
+  authors:
+  - Runze Yan
+  - Xinwen Liu
+  - Janine M Dutcher
+  - Michael J Tumminia
+  - Daniella Villalba
+  - Sheldon Cohen
+  - John D Creswell
+  - Kasey Creswell
+  - Jennifer Mankoff
+  - Anind K Dey
+  - Afsaneh Doryab
+  publisher: JMIR AI
+  date: '2024-04-18'
+  link: https://doi.org/gt7d2x
+  image: images/Projects/Rhythms/Identifying_Links.png
+  tags:
+  - Rhythms
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICMLA58977.2023.00045
+  title: Modeling Regularity and Predictability in Human Behavior from Multidimensional
+    Sensing Signals and Personal Characteristics
+  authors:
+  - Jingyi Gao
+  - Runze Yan
+  - Afsaneh Doryab
+  publisher: 2023 International Conference on Machine Learning and Applications (ICMLA)
+  date: '2023-12-15'
+  link: https://doi.org/gt7d2w
+  image: images/Projects/Rhythms/Modeling_Regularity.jpg
+  tags:
+  - Rhythms
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/SIEDS58326.2023.10137806
   title: Personalization in Circadian Rhythm-Based Event Scheduling
   authors:

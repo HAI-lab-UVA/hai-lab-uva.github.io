@@ -60,6 +60,18 @@
 
 # ======== Rhythms ========
 
+# Identifying Links Between Productivity and Biobehavioral Rhythms Modeled From Multimodal Sensor Streams: Exploratory Quantitative Study
+- id: doi:10.2196/47194 
+  image: images/Projects/Rhythms/Identifying_Links.png
+  tags:
+    - Rhythms
+
+# Modeling Regularity and Predictability in Human Behavior from Multidimensional Sensing Signals and Personal Characteristics
+- id: doi:10.1109/ICMLA58977.2023.00045
+  image: images/Projects/Rhythms/Modeling_Regularity.jpg
+  tags:
+    - Rhythms
+
 # Personalization in Circadian Rhythm-Based Event Scheduling
 - id: doi:10.1109/SIEDS58326.2023.10137806
   image: images/Projects/Rhythms/2023-SIEDS-Cover.jpg
