@@ -40,19 +40,19 @@ layout: default
 <!-- {% assign project_team_filter = "projects: " | append: page.title %} -->
 <!-- {% include list.html data="members" component="portrait" filters=project_team_filter %} -->
 
-{% assign project_team_filter = "role: pi, projects: " | append: page.title %}
+{% assign project_team_filter = "role: ^pi$, projects: " | append: page.title %}
 {% include list.html data="members" component="portrait" filters=project_team_filter %}
 
-{% assign project_team_filter = "role: phd, projects: " | append: page.title %}
+{% assign project_team_filter = "role: ^phd$, projects: " | append: page.title %}
 {% include list.html data="members" component="portrait" filters=project_team_filter %}
 
-{% assign project_team_filter = "role: ms, projects: " | append: page.title %}
+{% assign project_team_filter = "role: ^ms$, projects: " | append: page.title %}
 {% include list.html data="members" component="portrait" filters=project_team_filter %}
 
-{% assign project_team_filter = "role: undergrad, projects: " | append: page.title %}
+{% assign project_team_filter = "role: ^undergrad$, projects: " | append: page.title %}
 {% include list.html data="members" component="portrait" filters=project_team_filter %}
 
-{% assign project_team_filter = "role: intern, projects: " | append: page.title %}
+{% assign project_team_filter = "role: ^intern$, projects: " | append: page.title %}
 {% include list.html data="members" component="portrait" filters=project_team_filter %}
 
 <!--

@@ -33,6 +33,9 @@ layout: default
   {% assign member_projects = "people:" | append: member.aliases | remove: "[" | remove: "]" %}
   {% include list.html data="projects" component="projectcard" filters=member_projects %}
 
+  {% assign past_member_projects = "past:" | append: member.aliases | remove: "[" | remove: "]" %}
+  {% include list.html data="projects" component="projectcard" filters=past_member_projects %}
+
   <!-- Search for publications -->
   <h1>Publications</h1>
   {% if member.name == "Matt Clark" %}
