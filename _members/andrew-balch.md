@@ -6,12 +6,12 @@ affiliation: University of Virginia
 aliases:
   - A. Balch
 links:
-  # home-page: https://idonothaveawebsiteyetikeeptryingtomakeonebutineverhavetime.com
-  orcid: 0009-0005-1282-7480
+  home-page: https://andrewbalch.com
   email: xxv2zh@virginia.edu
   linkedin: andrew-j-balch
   github: andbalch
   google-scholar: Egg1KakAAAAJ&hl=en&inst=13751854044476728232
+  orcid: 0009-0005-1282-7480
 fun-fact: I love rock climbing, both bouldering and sport climbing!
 projects: 
   - Nutrition
