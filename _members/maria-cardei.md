@@ -14,6 +14,7 @@ links:
   google-scholar: https://scholar.google.com/citations?hl=en&user=R7iVxqUAAAAJ&inst=13751854044476728232
   orcid: 0009-0009-0047-6766
   github: mariacardei
+fun-fact: In her free time Maria loves hiking with her dog, rock climbing, gardening, and mountain biking!
 projects: 
   - Rhythms
   - Mood Ring 
