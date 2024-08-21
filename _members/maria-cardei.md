@@ -9,9 +9,11 @@ email:
   - cbr8ru@virginia.edu
 links:
   home-page: https://mariacardei.github.io/
+  linkedin: mariacardei
   orcid: 0009-0009-0047-6766
   google-scholar: https://scholar.google.com/citations?hl=en&user=R7iVxqUAAAAJ&inst=13751854044476728232
   email: cbr8ru@virginia.edu
+  github: mariacardei
 projects: 
   - Rhythms
   - Mood Ring 
