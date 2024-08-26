@@ -11,10 +11,4 @@ projects:
   - Rhythms
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Chong Zhao is a senior at Grinnell College, majoring in Computer Science and Mathematics. She has conducted research on gerrymandering and biostatistical analysis. Currently, she is focused on exploring the correlation between people's well-being and their daily rhythms, as well as the impact of external events on these rhythms.
