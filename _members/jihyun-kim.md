@@ -1,22 +1,15 @@
 ---
 name: Ji Hyun Kim
-image: images/photo.jpg
+image: images/People/jihyun.jpg
 role: ms
 affiliation: University of Virginia
 aliases:
   - J. Kim
 links:
-  home-page: https://iamdoingthisontheplaneandidontknowwhatyourwebsiteurlissorry.com
   email: mqa4qu@virginia.edu
 projects:
   - Social Walking
   - Melodies
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Ji Hyun Kim is a second year Master’s Student in Computer Science at the University of Virginia, with a Bachelor of Arts in German Language and Literature and International Studies from Ewha Womans University. Her professional experience spans over two years in marketing research, extracting insights into company and customer needs across various sectors. Currently she is focusing on investigating how successful pairing in social walking can enhance engagement and influence social connectedness.
