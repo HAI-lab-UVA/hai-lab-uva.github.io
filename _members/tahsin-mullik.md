@@ -1,6 +1,6 @@
 ---
 name: Tahsin Mullick
-image: images/People/Tahsin.jpg
+image: images/People/Tahsin.jpeg
 role: alum_phd
 affiliation: 
 aliases:
