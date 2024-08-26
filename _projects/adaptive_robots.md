@@ -8,7 +8,7 @@ repo:
 tags:
   - Human-Robot-Interaction
   - Emotion Recognition
-  - Wellness
+  - Social Interaction
 people: 
   - M. Clark
   - S. Shenoy
