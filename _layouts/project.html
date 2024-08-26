@@ -54,17 +54,29 @@ layout: default
 {% include list.html data="members" component="portrait" filters=project_team_filter %}
 
 <h2>Past Contributors</h2>
-{% assign project_team_filter = "role: alum_phd, projects: " | append: page.title %}
+{% assign past_members = "role: phd, aliases:" | append: page.past | remove: "[" | remove: "]" %}
+{% include list.html data="members" component="portrait" filters=past_members %}
+
+{% assign past_members = "role: ms, aliases:" | append: page.past | remove: "[" | remove: "]" %}
+{% include list.html data="members" component="portrait" filters=past_members %}
+
+{% assign past_members = "role: undergrad, aliases:" | append: page.past | remove: "[" | remove: "]" %}
+{% include list.html data="members" component="portrait" filters=past_members %}
+
+{% assign past_members = "role: intern, aliases:" | append: page.past | remove: "[" | remove: "]" %}
+{% include list.html data="members" component="portrait" filters=past_members %}
+
+<!-- {% assign project_team_filter = "role: phd, projects: " | append: page.title %}
 {% include list.html data="members" component="portrait" filters=project_team_filter %}
 
-{% assign project_team_filter = "role: alum_ms, projects: " | append: page.title %}
+{% assign project_team_filter = "role: ms, projects: " | append: page.title %}
 {% include list.html data="members" component="portrait" filters=project_team_filter %}
 
-{% assign project_team_filter = "role: alum_undergrad, projects: " | append: page.title %}
+{% assign project_team_filter = "role: undergrad, projects: " | append: page.title %}
 {% include list.html data="members" component="portrait" filters=project_team_filter %}
 
-{% assign project_team_filter = "role: alum_intern, projects: " | append: page.title %}
-{% include list.html data="members" component="portrait" filters=project_team_filter %}
+{% assign project_team_filter = "role: intern, projects: " | append: page.title %}
+{% include list.html data="members" component="portrait" filters=project_team_filter %} -->
 
 <!--
 <p class="center">

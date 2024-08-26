@@ -29,10 +29,11 @@ layout: default
   
   {% include section.html slim-right=true %}
   <!-- Projects -->
-  <h1">Projects</h1>
+  <h1>Projects</h1>
   {% assign member_projects = "people:" | append: member.aliases | remove: "[" | remove: "]" %}
   {% include list.html data="projects" component="projectcard" filters=member_projects %}
 
+  <h2>Past Projects</h2>
   {% assign past_member_projects = "past:" | append: member.aliases | remove: "[" | remove: "]" %}
   {% include list.html data="projects" component="projectcard" filters=past_member_projects %}
 
