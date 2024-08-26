@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: HAI Lab at UVA
+title: Human-AI Technology Lab at UVA
 subtitle: 
 description: 
 header: images/background.png
@@ -8,10 +8,9 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@HAI-lab-UVA
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: 
+  email: ad4ks@virginia.edu
+  google-scholar: O0lONMkAAAAJ
+  github: HAI-lab-UVA
 
 ### jekyll settings
 
