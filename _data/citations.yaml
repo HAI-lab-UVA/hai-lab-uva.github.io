@@ -17,19 +17,17 @@
   - Mood Ring
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.2196/25807
-  title: 'Predicting Age Groups of Reddit Users Based on Posting Behavior and Metadata:
-    Classification Model Development and Validation'
+- id: doi:10.2196/35807
+  title: "Predicting Depression in Adolescents Using Mobile and Wearable Sensors:\
+    \ Multimodal Machine Learning\u2013Based Exploratory Study"
   authors:
-  - Robert Chew
-  - Caroline Kery
-  - Laura Baum
-  - Thomas Bukowski
-  - Annice Kim
-  - Mario Navarro
-  publisher: JMIR Public Health and Surveillance
-  date: '2021-03-16'
-  link: https://doi.org/gt6nwg
+  - Tahsin Mullick
+  - Ana Radovic
+  - Sam Shaaban
+  - Afsaneh Doryab
+  publisher: JMIR Formative Research
+  date: '2022-06-24'
+  link: https://doi.org/gt7wpc
   image: images/Projects/Moodring/Predicting-Depression.png
   tags:
   - Mood Ring
