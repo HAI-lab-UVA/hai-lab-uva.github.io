@@ -269,6 +269,23 @@
   - Rhythms
   plugin: sources.py
   file: sources.yaml
+- id: arXiv:2408.11877
+  title: 'Towards an Accessible, Noninvasive Micronutrient Status Assessment Method:
+    A Comprehensive Review of Existing Techniques'
+  authors:
+  - Andrew Balch
+  - Maria A. Cardei
+  - Sibylle Kranz
+  - Afsaneh Doryab
+  publisher: arXiv
+  date: '2024-08-26'
+  link: https://arxiv.org/abs/2408.11877
+  image: images/Projects/Nutrition/nutrition-graphic.png
+  type: preprint
+  tags:
+  - Nutrition
+  plugin: sources.py
+  file: sources.yaml
 - id: arXiv:2405.18461
   title: 'Why Algorithms Remain Unjust: Power Structures Surrounding Algorithmic Activity'
   authors:
