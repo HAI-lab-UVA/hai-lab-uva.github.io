@@ -8,7 +8,7 @@ aliases:
 links:
   email: mqa4qu@virginia.edu
 projects:
-  - Social Walking
+  - Connected Steps
   - Melodies
 ---
 

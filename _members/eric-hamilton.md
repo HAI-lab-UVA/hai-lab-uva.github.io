@@ -9,6 +9,7 @@ links:
   home-page: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 projects:
   - Melodies
+  - Connected Steps
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

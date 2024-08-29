@@ -12,7 +12,7 @@ links:
   email: bcw3zj@virginia.edu
 projects: 
   - Rhythms
-  - Social Walking 
+  - Connected Steps 
 ---
 
 Sabit Ahmed is currently pursuing his PhD in Computer Science at the University of Virginia. He 
