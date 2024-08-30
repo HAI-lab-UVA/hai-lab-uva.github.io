@@ -14,4 +14,4 @@ people:
   - S. Shenoy
 ---
   
-Humanoid robots 
+Humanoid robots have shown great promise in forming social bonds with users. These bonds can be utilized to provide more meaningful support to humans in stressful situations, such as healthcare. However, even interactions between two sentient actors can be ambiguous, leading to harmful miscommunications. We investigate the external and internal factors that influence how robots' actions are perceived, and enable the robots to better adapt to these situations.
