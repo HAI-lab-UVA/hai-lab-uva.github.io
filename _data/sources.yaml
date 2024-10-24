@@ -45,6 +45,12 @@
 
 # ======== Melodies ========
 
+# Chords
+- id doi:10.1145/3675094.3678495
+  image: images/Projects/Melodies/Chords.png
+  tags:
+    - Melodies
+
 # Sounds of Health: Using Personalized Sonification Models to Communicate Health Information
 - id: doi:10.1145/3570346
   image: images/Projects/Melodies/Sounds-Of-Health-Cover.jpg
