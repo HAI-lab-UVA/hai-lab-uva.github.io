@@ -1,3 +1,365 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-[]
+- id: doi:10.2196/47805
+  title: 'Framework for Ranking Machine Learning Predictions of Limited, Multimodal,
+    and Longitudinal Behavioral Passive Sensing Data: Combining User-Agnostic and
+    Personalized Modeling'
+  authors:
+  - Tahsin Mullick
+  - Sam Shaaban
+  - Ana Radovic
+  - Afsaneh Doryab
+  publisher: JMIR AI
+  date: '2024-05-20'
+  link: https://doi.org/gt6nwf
+  image: images/Projects/Moodring/Framework-for-Ranking.png
+  tags:
+  - Mood Ring
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.2196/35807
+  title: "Predicting Depression in Adolescents Using Mobile and Wearable Sensors:\
+    \ Multimodal Machine Learning\u2013Based Exploratory Study"
+  authors:
+  - Tahsin Mullick
+  - Ana Radovic
+  - Sam Shaaban
+  - Afsaneh Doryab
+  publisher: JMIR Formative Research
+  date: '2022-06-24'
+  link: https://doi.org/gt7wpc
+  image: images/Projects/Moodring/Predicting-Depression.png
+  tags:
+  - Mood Ring
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/SIEDS52267.2021.9483755
+  title: An Automated Machine Learning Pipeline for Monitoring and Forecasting Mobile
+    Health Data
+  authors:
+  - Anna Bonaquist
+  - Meredith Grehan
+  - Owen Haines
+  - Joseph Keogh
+  - Tahsin Mullick
+  - Neil Singh
+  - Sam Shaaban
+  - Ana Radovic
+  - Afsaneh Doryab
+  publisher: 2021 Systems and Information Engineering Design Symposium (SIEDS)
+  date: '2021-04-30'
+  link: https://doi.org/gt6nwh
+  image: images/Projects/Moodring/SIEDS-2021.png
+  tags:
+  - Mood Ring
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3675094.3678495
+  title: Creating Emotion-Evoking Music to Communicate Wellness for Users with Diverse
+    Musical Backgrounds
+  authors:
+  - Jason Donald Chin
+  - Matthew Clark
+  - Afsaneh Doryab
+  publisher: Companion of the 2024 on ACM International Joint Conference on Pervasive
+    and Ubiquitous Computing
+  date: '2024-10-05'
+  link: https://doi.org/g8q8w2
+  image: images/Projects/Melodies/Chords.png
+  tags:
+  - Melodies
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3570346
+  title: Sounds of Health
+  authors:
+  - Matthew Clark
+  - Afsaneh Doryab
+  publisher: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
+    Technologies
+  date: '2022-12-21'
+  link: https://doi.org/gt565k
+  image: images/Projects/Melodies/Sounds-Of-Health-Cover.jpg
+  tags:
+  - Melodies
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3659611
+  title: 'Changing Your Tune: Lessons for Using Music to Encourage Physical Activity'
+  authors:
+  - Matthew Clark
+  - Afsaneh Doryab
+  publisher: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
+    Technologies
+  date: '2024-05-13'
+  link: https://doi.org/gt565m
+  image: images/Projects/Melodies/Changing-Your-Tune-Cover.jpg
+  tags:
+  - Melodies
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.2196/47194
+  title: 'Identifying Links Between Productivity and Biobehavioral Rhythms Modeled
+    From Multimodal Sensor Streams: Exploratory Quantitative Study'
+  authors:
+  - Runze Yan
+  - Xinwen Liu
+  - Janine M Dutcher
+  - Michael J Tumminia
+  - Daniella Villalba
+  - Sheldon Cohen
+  - John D Creswell
+  - Kasey Creswell
+  - Jennifer Mankoff
+  - Anind K Dey
+  - Afsaneh Doryab
+  publisher: JMIR AI
+  date: '2024-04-18'
+  link: https://doi.org/gt7d2x
+  image: images/Projects/Rhythms/Identifying_Links.png
+  tags:
+  - Rhythms
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICMLA58977.2023.00045
+  title: Modeling Regularity and Predictability in Human Behavior from Multidimensional
+    Sensing Signals and Personal Characteristics
+  authors:
+  - Jingyi Gao
+  - Runze Yan
+  - Afsaneh Doryab
+  publisher: 2023 International Conference on Machine Learning and Applications (ICMLA)
+  date: '2023-12-15'
+  link: https://doi.org/gt7d2w
+  image: images/Projects/Rhythms/Modeling_Regularity.jpg
+  tags:
+  - Rhythms
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/SIEDS58326.2023.10137806
+  title: Personalization in Circadian Rhythm-Based Event Scheduling
+  authors:
+  - Prachi Sadekar
+  - Jackson Baitinger
+  - Sean Conway
+  - Matthew Clark
+  - Afsaneh Doryab
+  publisher: 2023 Systems and Information Engineering Design Symposium (SIEDS)
+  date: '2023-04-27'
+  link: https://doi.org/gt565n
+  image: images/Projects/Rhythms/2023-SIEDS-Cover.jpg
+  tags:
+  - Rhythms
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3510029
+  title: A Computational Framework for Modeling Biobehavioral Rhythms from Mobile
+    and Wearable Data Streams
+  authors:
+  - Runze Yan
+  - Xinwen Liu
+  - Janine Dutcher
+  - Michael Tumminia
+  - Daniella Villalba
+  - Sheldon Cohen
+  - David Creswell
+  - Kasey Creswell
+  - Jennifer Mankoff
+  - Anind Dey
+  - Afsaneh Doryab
+  publisher: ACM Transactions on Intelligent Systems and Technology
+  date: '2022-03-03'
+  link: https://doi.org/gt6nwj
+  image: images/Projects/Rhythms/A_Computational_Framework.png
+  tags:
+  - Rhythms
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-981-16-2380-6_29
+  title: Daily Trajectory Prediction Using Temporal Frequent Pattern Tree
+  authors:
+  - Mingyi Cai
+  - Runze Yan
+  - Afsaneh Doryab
+  publisher: Lecture Notes in Networks and Systems
+  date: '2021-09-17'
+  link: https://doi.org/gt6nwp
+  image: images/Projects/Rhythms/Daily_Trajectory.png
+  tags:
+  - Rhythms
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-030-82199-9_44
+  title: "Towards a Computational Framework for\_Automated Discovery and Modeling\
+    \ of\_Biological Rhythms from Wearable Data\_Streams"
+  authors:
+  - Runze Yan
+  - Afsaneh Doryab
+  publisher: Lecture Notes in Networks and Systems
+  date: '2021-08-07'
+  link: https://doi.org/gt6nwk
+  image: images/Projects/Rhythms/Towards_Computational_Framework.png
+  tags:
+  - Rhythms
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/SIEDS49339.2020.9106683
+  title: Modeling Biological Rhythms to Predict Mental and Physical Readiness
+  authors:
+  - Ben Carper
+  - Dillon McGowan
+  - Samantha Miller
+  - Joe Nelson
+  - Leah Palombi
+  - Lina Romeo
+  - Kayla Spigelman
+  - Afsaneh Doryab
+  publisher: 2020 Systems and Information Engineering Design Symposium (SIEDS)
+  date: '2020-04-01'
+  link: https://doi.org/gt6nwm
+  image: images/Projects/Rhythms/2020-SIEDS-Cover.png
+  tags:
+  - Rhythms
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2020.08.10.244020
+  title: 'CoRhythMo: A Computational Framework for Modeling Biobehavioral Rhythms
+    from Mobile and Wearable Data Streams'
+  authors:
+  - Runze Yan
+  - Xinwen Liu
+  - Janine M Dutcher
+  - Michael J Tumminia
+  - Daniella Villalba
+  - Sheldon Cohen
+  - David Creswell
+  - Kasey Creswell
+  - Jennifer Mankoff
+  - Anind K Dey
+  - Afsaneh Doryab
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-08-10'
+  link: https://doi.org/gt6nwq
+  image: images/Projects/Rhythms/CoRhythMo.png
+  tags:
+  - Rhythms
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.2196/13209
+  title: 'Identifying Behavioral Phenotypes of Loneliness and Social Isolation with
+    Passive Sensing: Statistical Analysis, Data Mining and Machine Learning of Smartphone
+    and Fitbit Data'
+  authors:
+  - Afsaneh Doryab
+  - Daniella K Villalba
+  - Prerna Chikersal
+  - Janine M Dutcher
+  - Michael Tumminia
+  - Xinwen Liu
+  - Sheldon Cohen
+  - Kasey Creswell
+  - Jennifer Mankoff
+  - John D Creswell
+  - Anind K Dey
+  publisher: JMIR mHealth and uHealth
+  date: '2019-07-24'
+  link: https://doi.org/gg7rqp
+  image: images/Papers/behavioral-phenotypes.png
+  tags:
+  - Rhythms
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3314395
+  title: Modeling Biobehavioral Rhythms with Passive Sensing in the Wild
+  authors:
+  - Afsaneh Doryab
+  - Anind K. Dey
+  - Grace Kao
+  - Carissa Low
+  publisher: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
+    Technologies
+  date: '2019-03-29'
+  link: https://doi.org/gt6nwn
+  image: images/Projects/Rhythms/Modeling_Biobehavioral_Rhythms-IMWUT2019.jpg
+  tags:
+  - Rhythms
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2408.11877
+  title: 'Towards an Accessible, Noninvasive Micronutrient Status Assessment Method:
+    A Comprehensive Review of Existing Techniques'
+  authors:
+  - Andrew Balch
+  - Maria A. Cardei
+  - Sibylle Kranz
+  - Afsaneh Doryab
+  publisher: arXiv
+  date: '2024-08-26'
+  link: https://arxiv.org/abs/2408.11877
+  image: images/Projects/Nutrition/nutrition-graphic.png
+  type: preprint
+  tags:
+  - Nutrition
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2410.11027
+  title: Exploring Smartphone-based Spectrophotometry for Nutrient Identification
+    and Quantification
+  authors:
+  - Andrew Balch
+  - Maria A. Cardei
+  - Afsaneh Doryab
+  publisher: arXiv
+  date: '2024-10-17'
+  link: https://arxiv.org/abs/2410.11027
+  image: images/Papers/spectro_flowchart.png
+  type: preprint
+  tags:
+  - Nutrition
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2405.18461
+  title: 'Why Algorithms Remain Unjust: Power Structures Surrounding Algorithmic Activity'
+  authors:
+  - Andrew Balch
+  publisher: arXiv
+  date: '2024-05-30'
+  link: https://arxiv.org/abs/2405.18461
+  image: images/Papers/injustice.png
+  type: preprint
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1109/RO-MAN53752.2022.9900581
+  title: A Self Learning System for Emotion Awareness and Adaptation in Humanoid Robots
+  authors:
+  - Sudhir Shenoy
+  - Yusheng Jiang
+  - Tyler Lynch
+  - Lauren Isabelle Manuel
+  - Afsaneh Doryab
+  publisher: 2022 31st IEEE International Conference on Robot and Human Interactive
+    Communication (RO-MAN)
+  date: '2022-08-29'
+  link: https://doi.org/gt7d3z
+  image: images/Projects/Adaptive_Robots/self_learning.jpg
+  tags:
+  - Adaptive Humanoid Robots
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3434074.3447224
+  title: Adaptive Humanoid Robots for Pain Management in Children
+  authors:
+  - Sudhir Shenoy
+  - Yueyue Hou
+  - Xinran Wang
+  - Fateme Nikseresht
+  - Afsaneh Doryab
+  publisher: Companion of the 2021 ACM/IEEE International Conference on Human-Robot
+    Interaction
+  date: '2021-03-08'
+  link: https://doi.org/gt7d32
+  image: images/Projects/Adaptive_Robots/pain.jpg
+  tags:
+  - Adaptive Humanoid Robots
+  plugin: sources.py
+  file: sources.yaml
