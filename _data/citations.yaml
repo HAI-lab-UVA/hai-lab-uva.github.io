@@ -1,5 +1,35 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1109/CASE59546.2024.10711469
+  title: Practical Heuristics for Victim Tagging During a Mass Casualty Incident Emergency
+    Medical Response
+  authors:
+  - Maria Ana Cardei
+  - Afsaneh Doryab
+  publisher: 2024 IEEE 20th International Conference on Automation Science and Engineering
+    (CASE)
+  date: '2024-08-28'
+  link: https://doi.org/g82vkd
+  image: images/Projects/Victim_Tagging/victim_tagging_cover_photo.png
+  tags:
+  - Victim Tagging
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICCPS61052.2024.00034
+  title: Multi-Agent System for Optimizing Victim Tagging in Human/Autonomous Responder
+    Teams
+  authors:
+  - Maria A. Cardei
+  - Afsaneh Doryab
+  publisher: 2024 ACM/IEEE 15th International Conference on Cyber-Physical Systems
+    (ICCPS)
+  date: '2024-05-13'
+  link: https://doi.org/g82vkf
+  image: images/Projects/Victim_Tagging/iccps_photo.png
+  tags:
+  - Victim Tagging
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.2196/47805
   title: 'Framework for Ranking Machine Learning Predictions of Limited, Multimodal,
     and Longitudinal Behavioral Passive Sensing Data: Combining User-Agnostic and
