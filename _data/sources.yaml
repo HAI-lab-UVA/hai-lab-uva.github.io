@@ -22,6 +22,19 @@
 # - id: doi:10.7554/eLife.32822
 #   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
 
+# ======== Victim Tagging ========
+# Practical Heuristics for Victim Tagging During a Mass Casualty Incident Emergency Medical Response
+- id: doi:10.1109/CASE59546.2024.10711469
+  image: images/Projects/Victim_Tagging/victim_tagging_cover_photo.png
+  tags:
+    - Victim Tagging
+
+# Multi-Agent System for Optimizing Victim Tagging in Human/Autonomous Responder Teams
+- id: doi:10.1109/ICCPS61052.2024.00034
+  image: images/Projects/Victim_Tagging/iccps_photo.png
+  tags:
+    - Victim Tagging
+
 # ======== Mood Ring ========
 
 # Framework for Ranking Machine Learning Predictions of Limited, Multimodal, and Longitudinal Behavioral Passive Sensing Data: Combining User-Agnostic and Personalized Modeling
