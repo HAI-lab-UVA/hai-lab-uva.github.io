@@ -12,7 +12,6 @@ tags:
 contact: M. Clark
 people: 
   - M. Clark
-  - M. Cardei
   - T. Mullick
 past: 
   - E. Zhang
