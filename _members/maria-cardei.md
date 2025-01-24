@@ -17,7 +17,6 @@ links:
 fun-fact: In her free time Maria loves hiking with her dog, rock climbing, gardening, and mountain biking!
 projects: 
   - Rhythms
-  - Mood Ring 
   - Nutrition
   - Victim Tagging
 ---
