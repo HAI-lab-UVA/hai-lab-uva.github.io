@@ -1,8 +1,8 @@
 ---
 title: Rhythms
-subtitle: Analyzing behavioral data for well-being
+subtitle: Analyzing behavioral data for well-being.
 group: ongoing
-image: images/Projects/Rhythms/rhythms_image.png
+image: images/Projects/Rhythms/rhythms_img.png
 description: 
 repo:
 tags:
