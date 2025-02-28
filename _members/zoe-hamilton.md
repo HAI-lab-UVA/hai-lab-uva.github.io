@@ -1,10 +1,10 @@
 ---
-name: Eric Hamilton
+name: Zoe Hamilton
 image: images/photo.jpg
 role: undergrad
 affiliation: University of Virginia
 aliases:
-  - E. Hamilton
+  - Z. Hamilton
 links:
   home-page: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 projects:

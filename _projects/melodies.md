@@ -13,7 +13,7 @@ contact: M. Clark
 people: 
   - M. Clark
   - J. Kim
-  - E. Hamilton
+  - Z. Hamilton
   - J. Bierly
   - A. Chakrabarti
   - K. Rukavina

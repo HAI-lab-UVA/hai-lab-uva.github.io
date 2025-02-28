@@ -14,7 +14,7 @@ contact: S. Ahmed
 people:
   - S. Ahmed
   - J. Kim
-  - E. Hamilton
+  - Z. Hamilton
   - J. Bierly
   - K. Rukavina
 ---
