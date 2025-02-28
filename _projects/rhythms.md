@@ -1,13 +1,13 @@
 ---
 title: Rhythms
-subtitle: Connecting Routines to Wellness
+subtitle: Analyzing behavioral data for well-being.
 group: ongoing
-image: images/Projects/Rhythms/Rhythms-Image.jpg
+image: images/Projects/Rhythms/r_img.png
 description: 
 repo:
 tags:
-  - Circadian Rhythms
-  - Routines
+  - Behavior Modeling
+  - Machine Learning
   - Wellness
 contact: M. Clark
 people: 
