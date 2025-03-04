@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: arXiv:2503.00684
+  title: Factorized Deep Q-Network for Cooperative Multi-Agent Reinforcement Learning
+    in Victim Tagging
+  authors:
+  - Maria Ana Cardei
+  - Afsaneh Doryab
+  publisher: arXiv
+  date: '2025-03-04'
+  link: https://arxiv.org/abs/2503.00684
+  image: images/Projects/Victim_Tagging/vt_rl_pic.png
+  type: preprint
+  tags:
+  - Victim Tagging
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/CASE59546.2024.10711469
   title: Practical Heuristics for Victim Tagging During a Mass Casualty Incident Emergency
     Medical Response
