@@ -24,6 +24,12 @@
 
 # ======== Victim Tagging ========
 # Practical Heuristics for Victim Tagging During a Mass Casualty Incident Emergency Medical Response
+- id: arXiv:2503.00684
+  image: images/Projects/Victim_Tagging/vt_rl_pic.png
+  type: preprint
+  tags:
+    - Victim Tagging
+
 - id: doi:10.1109/CASE59546.2024.10711469
   image: images/Projects/Victim_Tagging/victim_tagging_cover_photo.png
   tags:
