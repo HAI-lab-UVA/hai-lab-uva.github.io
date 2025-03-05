@@ -1,7 +1,7 @@
 ---
-title: Maria and Matt led the UVA Women in Computer Science (WiCS) Hackathon CS Research Workshop 
+title: Maria and Matt led the UVA WiCS Hackathon CS Research Workshop 
 author: maria-cardei
-image: images/Events/WiCSHack.png
+image: images/Events/HackTalk.png
 tags:
   - Presentation
 ---
