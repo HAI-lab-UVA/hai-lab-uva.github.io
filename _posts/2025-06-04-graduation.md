@@ -10,11 +10,14 @@ tags:
 
 Excited to announce the graduation of many HAI Lab members this year! We are incredibly proud of our graduating students:
 
+{% include cols.html
+  col1="
 ### Master's Graduates
 - Maria Cardei
 - Ji Hyun Kim
 - Tahsin Mullick
-
+"
+  col2="
 ### Undergraduate Graduates
 - Kunaal Agarwal
 - Andrew Balch
@@ -24,12 +27,12 @@ Excited to announce the graduation of many HAI Lab members this year! We are inc
 - Sarah Naidu
 - Elaine Zhang
 - Chong Zhao
-
-### High School Gradute
+"
+  col3="
+### High School Graduate
 - Kyan Yang
-
-{% include list.html component="portrait" data=site.members 
-  filters="name: tahsin-mullik, jihyun-kim, maria-cardei, andrew-balch, sree-deeksha-bethapuri, zoe-hamilton, kyan-yang, chong-zhao, matthew-haid, kunaal-agarwal, elaine-zhang, sarah-naidu" %}
+"
+%}
 
 {% include grid.html
   content="
