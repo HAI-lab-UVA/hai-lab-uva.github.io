@@ -2,19 +2,16 @@
 name: Kyan Yang
 image:
 role: intern
-affiliation: Madison High School
+affiliation: Stanford University / Madison High School
 aliases:
   - K. Yang
 links:
-  email: kyan.b.yang@gmail.com
+  email: kyan.yang@stanford.edu
+  linkedin: kyan-yang
+  twitter: kyanyang_
 fun-fact:
 projects: 
   - Trust
+  - Nutrition
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Hey! My name is Kyan, and I started working with the HAI Lab as an intern in the summer of '23. I just graduated Madison High School and am an incoming freshman at Stanford University.
