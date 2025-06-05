@@ -29,7 +29,7 @@ Excited to announce the graduation of many HAI Lab members this year! We are inc
 - Chong Zhao
 "
   col3="
-### High School Graduate
+### High School Graduates
 - Kyan Yang
 "
 %}
