@@ -18,7 +18,7 @@ Excited to announce the graduation of many HAI Lab members this year! We are inc
 - Tahsin Mullick
 "
   col2="
-### Undergraduate Graduates
+### Undergrad Graduates
 - Kunaal Agarwal
 - Andrew Balch
 - Sree Deeksha Bethapuri
