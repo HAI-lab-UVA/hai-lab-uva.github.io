@@ -1,7 +1,7 @@
 ---
 name: Ioana Cardei
 image: 
-role: intern
+role: alum_staff
 affiliation: University of Virginia
 aliases:
   - I. Cardei
