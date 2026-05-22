@@ -1,7 +1,7 @@
 ---
 name: Katherine Anne Rukavina
 image: images/People/katherineanne-rukavina.jpeg
-role: undergrad
+role: alum_undergrad
 affiliation: University of Virginia
 aliases:
   - K. Rukavina

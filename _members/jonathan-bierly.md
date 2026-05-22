@@ -1,7 +1,7 @@
 ---
 name: Jonathan Bierly
 image: images/People/jonathan-bierly.jpg
-role: undergrad
+role: alum_undergrad
 affiliation: University of Virginia
 aliases:
   - J. Bierly

@@ -1,7 +1,7 @@
 ---
 name: Kyan Yang
 image:
-role: intern
+role: alum_intern
 affiliation: Stanford University / Madison High School
 aliases:
   - K. Yang

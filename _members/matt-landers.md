@@ -1,7 +1,7 @@
 ---
 name: Matt Landers
 image: images/People/matt_landers.jpg
-role: phd
+role: alum_phd
 affiliation: University of Virginia
 aliases:
   - M. Landers

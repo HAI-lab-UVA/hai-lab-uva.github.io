@@ -1,7 +1,7 @@
 ---
 name: Andrew Balch
 image: images/People/andrew-balch.jpg
-role: undergrad
+role: alum_undergrad
 affiliation: University of Virginia
 aliases:
   - A. Balch

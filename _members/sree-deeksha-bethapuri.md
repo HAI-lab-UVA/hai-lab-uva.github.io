@@ -1,7 +1,7 @@
 ---
 name: Sree Deeksha Bethapuri
 image:
-role: undergrad
+role: phd
 affiliation: University of Virginia
 aliases: 
     - S. Bethapuri

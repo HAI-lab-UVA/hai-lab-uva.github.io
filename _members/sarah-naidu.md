@@ -1,7 +1,7 @@
 ---
 name: Sarah Naidu
 image: images/photo.jpg
-role: undergrad
+role: alum_undergrad
 affiliation: University of Virginia
 aliases:
   - S. Naidu

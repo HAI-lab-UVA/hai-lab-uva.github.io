@@ -34,13 +34,13 @@ Affiliations and contact information may not be up-to-date.
 ## PhD Students
 {% include list.html data="members" component="portrait" filters="role: alum_phd" %}
 
-<!-- ## Master's Students
+## Master's Students
 {% include list.html data="members" component="portrait" filters="role: alum_ms" %} -->
 
 ## Undergraduate Students
 {% include list.html data="members" component="portrait" filters="role: alum_undergrad" %}
 
-<!-- ## Research Interns
+## Research Interns
 {% include list.html data="members" component="portrait" filters="role: alum_intern" %} -->
 
 ## Staff

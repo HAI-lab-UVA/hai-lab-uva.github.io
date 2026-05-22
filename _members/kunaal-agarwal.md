@@ -1,7 +1,7 @@
 ---
 name: Kunaal Agarwal
 image:
-role: undergrad
+role: alum_undergrad
 affiliation: University of Virginia
 aliases:
     - K. Agarwal
