@@ -17,8 +17,5 @@ links:
 fun-fact: When not studying or working, Hannah can typically be found attending or planning events at Brown Residential College where she lives and serves as Secretary.
 projects: 
   - HAI Teams
-  - Trust
-  - Digital Footprint
-  - Remote Monitoring
 ---
 Hannah is an undergraduate student at the University of Virginia studying Computer Science (B.S.) and Mathematics with a minor in French. She is interested in reinforcement learning, Human-AI collaboration, and anything based on elegant math. She hopes to pursue a Ph.D. one day and is very enthusiastic about research.
