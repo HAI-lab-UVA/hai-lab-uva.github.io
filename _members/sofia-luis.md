@@ -13,8 +13,9 @@ links:
   email: hup6sk@virginia.edu
   linkedin: sofiasluis
   github: ssluis06
-fun-fact: 
+fun-fact: In her free time, Sofia loves running, lifting, hiking, and cooking.
 projects: 
   - Nutrition
   - Readmission
 ---
+Sofia Luis is a fourth-year undergraduate student at UVA studying Electrical Engineering and Systems Engineering. Her research focuses on sensor-driven approaches to human health, particularly analyzing sensor and spectral data under noise and uncertainty. Her research interests include machine learning, signal processing, and data-driven modeling for complex systems.
