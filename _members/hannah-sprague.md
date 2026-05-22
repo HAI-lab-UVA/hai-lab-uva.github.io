@@ -3,6 +3,8 @@ name: Hannah Sprague
 image: images/People/hannah-sprague.png
 role: undergrad
 affiliation: University of Virginia
+aliases:
+    - H. Sprague
 
 email:
   - qfs9mw@virginia.edu
