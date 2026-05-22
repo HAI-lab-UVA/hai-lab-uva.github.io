@@ -21,8 +21,8 @@ nav:
 ## Undergraduate Students
 {% include list.html data="members" component="portrait" filters="role: ^undergrad$" %}
 
-## Research Interns
-{% include list.html data="members" component="portrait" filters="role: ^intern$" %}
+<!-- ## Research Interns
+{% include list.html data="members" component="portrait" filters="role: ^intern$" %} -->
 
 <!-- ## Staff
 {% include list.html data="members" component="portrait" filters="role: ^staff$" %} -->
@@ -35,13 +35,13 @@ Affiliations and contact information may not be up-to-date.
 {% include list.html data="members" component="portrait" filters="role: alum_phd" %}
 
 ## Master's Students
-{% include list.html data="members" component="portrait" filters="role: alum_ms" %} -->
+{% include list.html data="members" component="portrait" filters="role: alum_ms" %}
 
 ## Undergraduate Students
 {% include list.html data="members" component="portrait" filters="role: alum_undergrad" %}
 
 ## Research Interns
-{% include list.html data="members" component="portrait" filters="role: alum_intern" %} -->
+{% include list.html data="members" component="portrait" filters="role: alum_intern" %}
 
 ## Staff
 {% include list.html data="members" component="portrait" filters="role: alum_staff" %}
