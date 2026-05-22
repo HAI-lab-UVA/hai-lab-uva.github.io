@@ -15,8 +15,8 @@ nav:
 ## PhD Students
 {% include list.html data="members" component="portrait" filters="role: ^phd$" %}
 
-## Master's Students
-{% include list.html data="members" component="portrait" filters="role: ^ms$" %}
+<!-- ## Master's Students
+{% include list.html data="members" component="portrait" filters="role: ^ms$" %} -->
 
 ## Undergraduate Students
 {% include list.html data="members" component="portrait" filters="role: ^undergrad$" %}
