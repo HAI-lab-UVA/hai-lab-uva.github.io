@@ -171,7 +171,7 @@
     - Nutrition
 
 # Exploring Smartphone-based Spectrophotometry for Vitamin B12 Quantification
-- id: https://doi.org/10.1145/3714394.3754376
+- id: doi.org/10.1145/3714394.3754376
   image: images/Papers/spectro_flowchart.png
   tags:
     - Nutrition
@@ -189,6 +189,8 @@
 - id: arXiv:2405.18461
   image: images/Papers/injustice.png
   type: preprint
+  tags:
+    - Injustice
 
 # ======= Adaptive Humanoid Robots =======
 
@@ -219,7 +221,7 @@
 
 # ======== RL ========
 # SAINT: Attention-Based Modeling of Sub-Action Dependencies in Multi-Action Policies
- - id: 10.48550/arXiv.2505.12109
+- id: 10.48550/arXiv.2505.12109
   image: 
   tags:
     - RL
