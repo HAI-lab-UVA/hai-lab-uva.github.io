@@ -508,6 +508,7 @@
     Communication (RO-MAN)
   date: '2025-08-25'
   link: https://doi.org/hb5m7t
+  image: images/Papers/RobotEmotionalExpressions.png
   type: paper
   tags:
   - Adaptive Humanoid Robots
@@ -539,6 +540,7 @@
   publisher: arXiv
   date: '2026-02-02'
   link: https://arxiv.org/abs/2505.12109
+  image: images/Papers/SAINT.png
   type: preprint
   tags:
   - RL
