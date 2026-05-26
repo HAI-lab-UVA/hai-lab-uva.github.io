@@ -15,7 +15,7 @@
   - Victim Tagging
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1109/CASE59546.2024.10711469
+- id: 10.1109/CASE59546.2024.10711469
   title: Practical Heuristics for Victim Tagging During a Mass Casualty Incident Emergency
     Medical Response
   authors:
@@ -30,7 +30,7 @@
   - Victim Tagging
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1109/ICCPS61052.2024.00034
+- id: 10.1109/ICCPS61052.2024.00034
   title: Multi-Agent System for Optimizing Victim Tagging in Human/Autonomous Responder
     Teams
   authors:
@@ -45,7 +45,7 @@
   - Victim Tagging
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.2196/47805
+- id: 10.2196/47805
   title: 'Framework for Ranking Machine Learning Predictions of Limited, Multimodal,
     and Longitudinal Behavioral Passive Sensing Data: Combining User-Agnostic and
     Personalized Modeling'
@@ -62,7 +62,7 @@
   - Mood Ring
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.2196/35807
+- id: 10.2196/35807
   title: "Predicting Depression in Adolescents Using Mobile and Wearable Sensors:\
     \ Multimodal Machine Learning\u2013Based Exploratory Study"
   authors:
@@ -78,7 +78,7 @@
   - Mood Ring
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1109/SIEDS52267.2021.9483755
+- id: 10.1109/SIEDS52267.2021.9483755
   title: An Automated Machine Learning Pipeline for Monitoring and Forecasting Mobile
     Health Data
   authors:
@@ -99,7 +99,23 @@
   - Mood Ring
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1145/3675094.3678495
+- id: 10.1016/j.jaac.2025.07.746
+  title: 4.3 Evaluation of MoodRing Passive Mood Monitoring Application on Improving
+    Quality of Depression Management in Adolescents
+  authors:
+  - Ana Radovic
+  - Meredith Wallace
+  - Afsaneh Doryab
+  - Tahsin Mullick
+  - Sami Shaaban
+  publisher: Journal of the American Academy of Child &amp; Adolescent Psychiatry
+  date: '2025-10-01'
+  link: https://doi.org/hb5m7n
+  tags:
+  - Mood Ring
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1145/3675094.3678495
   title: Creating Emotion-Evoking Music to Communicate Wellness for Users with Diverse
     Musical Backgrounds
   authors:
@@ -115,7 +131,7 @@
   - Melodies
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1145/3570346
+- id: 10.1145/3570346
   title: Sounds of Health
   authors:
   - Matthew Clark
@@ -129,7 +145,7 @@
   - Melodies
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1145/3659611
+- id: 10.1145/3659611
   title: 'Changing Your Tune: Lessons for Using Music to Encourage Physical Activity'
   authors:
   - Matthew Clark
@@ -143,7 +159,20 @@
   - Melodies
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.2196/47194
+- id: 10.1109/PerComWorkshops65533.2025.00145
+  title: Enabling Meaningful Communication Through Personalization
+  authors:
+  - Matthew Clark
+  - Afsaneh Doryab
+  publisher: 2025 IEEE International Conference on Pervasive Computing and Communications
+    Workshops and other Affiliated Events (PerCom Workshops)
+  date: '2025-03-17'
+  link: https://doi.org/hb5m7p
+  tags:
+  - Melodies
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.2196/47194
   title: 'Identifying Links Between Productivity and Biobehavioral Rhythms Modeled
     From Multimodal Sensor Streams: Exploratory Quantitative Study'
   authors:
@@ -166,7 +195,7 @@
   - Rhythms
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1109/ICMLA58977.2023.00045
+- id: 10.1109/ICMLA58977.2023.00045
   title: Modeling Regularity and Predictability in Human Behavior from Multidimensional
     Sensing Signals and Personal Characteristics
   authors:
@@ -181,7 +210,7 @@
   - Rhythms
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1109/SIEDS58326.2023.10137806
+- id: 10.1109/SIEDS58326.2023.10137806
   title: Personalization in Circadian Rhythm-Based Event Scheduling
   authors:
   - Prachi Sadekar
@@ -197,7 +226,7 @@
   - Rhythms
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1145/3510029
+- id: 10.1145/3510029
   title: A Computational Framework for Modeling Biobehavioral Rhythms from Mobile
     and Wearable Data Streams
   authors:
@@ -220,7 +249,7 @@
   - Rhythms
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1007/978-981-16-2380-6_29
+- id: 10.1007/978-981-16-2380-6_29
   title: Daily Trajectory Prediction Using Temporal Frequent Pattern Tree
   authors:
   - Mingyi Cai
@@ -234,7 +263,7 @@
   - Rhythms
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1007/978-3-030-82199-9_44
+- id: 10.1007/978-3-030-82199-9_44
   title: "Towards a Computational Framework for\_Automated Discovery and Modeling\
     \ of\_Biological Rhythms from Wearable Data\_Streams"
   authors:
@@ -248,7 +277,7 @@
   - Rhythms
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1109/SIEDS49339.2020.9106683
+- id: 10.1109/SIEDS49339.2020.9106683
   title: Modeling Biological Rhythms to Predict Mental and Physical Readiness
   authors:
   - Ben Carper
@@ -267,7 +296,7 @@
   - Rhythms
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2020.08.10.244020
+- id: 10.1101/2020.08.10.244020
   title: 'CoRhythMo: A Computational Framework for Modeling Biobehavioral Rhythms
     from Mobile and Wearable Data Streams'
   authors:
@@ -290,7 +319,22 @@
   - Rhythms
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.2196/13209
+- id: 10.1109/SIEDS65500.2025.11021173
+  title: Student Receptiveness to Circadian-Aware AI-Driven Scheduling
+  authors:
+  - Chloe Hutchinson
+  - Rebecca Jun
+  - Caleb Rose
+  - Matthew Clark
+  - Afsaneh Doryab
+  publisher: 2025 Systems and Information Engineering Design Symposium (SIEDS)
+  date: '2025-05-02'
+  link: https://doi.org/hb5m7q
+  tags:
+  - Rhythms
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.2196/13209
   title: 'Identifying Behavioral Phenotypes of Loneliness and Social Isolation with
     Passive Sensing: Statistical Analysis, Data Mining and Machine Learning of Smartphone
     and Fitbit Data'
@@ -314,7 +358,7 @@
   - Rhythms
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1145/3314395
+- id: 10.1145/3314395
   title: Modeling Biobehavioral Rhythms with Passive Sensing in the Wild
   authors:
   - Afsaneh Doryab
@@ -347,18 +391,35 @@
   - Nutrition
   plugin: sources.py
   file: sources.yaml
-- id: arXiv:2410.11027
-  title: Exploring Smartphone-based Spectrophotometry for Nutrient Identification
-    and Quantification
+- id: 10.1145/3714394.3754376
+  title: Exploring Smartphone-based Spectrophotometry for Vitamin B12 Quantification
   authors:
   - Andrew Balch
   - Maria A. Cardei
   - Afsaneh Doryab
-  publisher: arXiv
-  date: '2024-10-17'
-  link: https://arxiv.org/abs/2410.11027
+  publisher: Companion of the 2025 ACM International Joint Conference on Pervasive
+    and Ubiquitous Computing
+  date: '2025-10-12'
+  link: https://doi.org/hb5m7r
   image: images/Papers/spectro_flowchart.png
-  type: preprint
+  tags:
+  - Nutrition
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1109/MPRV.2025.3575254
+  title: Characterization and Feasibility of Wearable Spectroscopic Tracking of Nutrition
+    Biomarkers
+  authors:
+  - Tarek Hamid
+  - Elizabeth C. Courtney
+  - Patricia Flores
+  - Jane Byun
+  - Afsaneh Doryab
+  - Sibylle Kranz
+  - Amanda Watson
+  publisher: IEEE Pervasive Computing
+  date: '2025-07-01'
+  link: https://doi.org/hb5m7s
   tags:
   - Nutrition
   plugin: sources.py
@@ -372,6 +433,8 @@
   link: https://arxiv.org/abs/2405.18461
   image: images/Papers/injustice.png
   type: preprint
+  tags:
+  - Injustice
   plugin: sources.py
   file: sources.yaml
 - id: 10.1109/RO-MAN53752.2022.9900581
@@ -391,7 +454,7 @@
   - Adaptive Humanoid Robots
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1145/3434074.3447224
+- id: 10.1145/3434074.3447224
   title: Adaptive Humanoid Robots for Pain Management in Children
   authors:
   - Sudhir Shenoy
@@ -406,5 +469,62 @@
   image: images/Projects/Adaptive_Robots/pain.jpg
   tags:
   - Adaptive Humanoid Robots
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1109/RO-MAN63969.2025.11217906
+  title: "Perceptions of a Robot\u2019s Emotional Expressions are Influenced by Users\u2019\
+    \ Emotional States"
+  authors:
+  - Sudhir Shenoy
+  - Matthew Clark
+  - Ariful Islam
+  - Afsaneh Doryab
+  publisher: 2025 34th IEEE International Conference on Robot and Human Interactive
+    Communication (RO-MAN)
+  date: '2025-08-25'
+  link: https://doi.org/hb5m7t
+  tags:
+  - Adaptive Humanoid Robots
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1145/3721201.3721389
+  title: Predicting The Severity of Anxiety in Adolescents Through Passively Sensed
+    Behaviors
+  authors:
+  - Elaine Zhang
+  - Matthew Clark
+  - Afsaneh Doryab
+  publisher: 'Proceedings of the ACM/IEEE International Conference on Connected Health:
+    Applications, Systems and Engineering Technologies'
+  date: '2025-06-24'
+  link: https://doi.org/hb5m7v
+  tags:
+  - Digital Wellbeing
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2505.12109
+  title: 'SAINT: Attention-Based Policies for Discrete Combinatorial Action Spaces'
+  authors:
+  - Matthew Landers
+  - Taylor W. Killian
+  - Thomas Hartvigsen
+  - Afsaneh Doryab
+  publisher: arXiv
+  date: '2026-02-02'
+  link: https://arxiv.org/abs/2505.12109
+  tags:
+  - RL
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1109/IJCNN64981.2025.11228810
+  title: Parameter Transfer for Single-Task Reinforcement Learning
+  authors:
+  - Matthew Landers
+  - Afsaneh Doryab
+  publisher: 2025 International Joint Conference on Neural Networks (IJCNN)
+  date: '2025-06-30'
+  link: https://doi.org/hb5m7w
+  tags:
+  - RL
   plugin: sources.py
   file: sources.yaml
