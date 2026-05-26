@@ -26,6 +26,7 @@
   date: '2024-08-28'
   link: https://doi.org/g82vkd
   image: images/Projects/Victim_Tagging/victim_tagging_cover_photo.png
+  type: paper
   tags:
   - Victim Tagging
   plugin: sources.py
@@ -41,6 +42,7 @@
   date: '2024-05-13'
   link: https://doi.org/g82vkf
   image: images/Projects/Victim_Tagging/iccps_photo.png
+  type: paper
   tags:
   - Victim Tagging
   plugin: sources.py
@@ -58,6 +60,7 @@
   date: '2024-05-20'
   link: https://doi.org/gt6nwf
   image: images/Projects/Moodring/Framework-for-Ranking.png
+  type: paper
   tags:
   - Mood Ring
   plugin: sources.py
@@ -74,6 +77,7 @@
   date: '2022-06-24'
   link: https://doi.org/gt7wpc
   image: images/Projects/Moodring/Predicting-Depression.png
+  type: paper
   tags:
   - Mood Ring
   plugin: sources.py
@@ -95,6 +99,7 @@
   date: '2021-04-30'
   link: https://doi.org/gt6nwh
   image: images/Projects/Moodring/SIEDS-2021.png
+  type: paper
   tags:
   - Mood Ring
   plugin: sources.py
@@ -111,6 +116,7 @@
   publisher: Journal of the American Academy of Child &amp; Adolescent Psychiatry
   date: '2025-10-01'
   link: https://doi.org/hb5m7n
+  type: paper
   tags:
   - Mood Ring
   plugin: sources.py
@@ -127,6 +133,7 @@
   date: '2024-10-05'
   link: https://doi.org/g8q8w2
   image: images/Projects/Melodies/Chords.png
+  type: paper
   tags:
   - Melodies
   plugin: sources.py
@@ -141,6 +148,7 @@
   date: '2022-12-21'
   link: https://doi.org/gt565k
   image: images/Projects/Melodies/Sounds-Of-Health-Cover.jpg
+  type: paper
   tags:
   - Melodies
   plugin: sources.py
@@ -155,6 +163,7 @@
   date: '2024-05-13'
   link: https://doi.org/gt565m
   image: images/Projects/Melodies/Changing-Your-Tune-Cover.jpg
+  type: paper
   tags:
   - Melodies
   plugin: sources.py
@@ -168,6 +177,7 @@
     Workshops and other Affiliated Events (PerCom Workshops)
   date: '2025-03-17'
   link: https://doi.org/hb5m7p
+  type: paper
   tags:
   - Melodies
   plugin: sources.py
@@ -191,6 +201,7 @@
   date: '2024-04-18'
   link: https://doi.org/gt7d2x
   image: images/Projects/Rhythms/Identifying_Links.png
+  type: paper
   tags:
   - Rhythms
   plugin: sources.py
@@ -206,6 +217,7 @@
   date: '2023-12-15'
   link: https://doi.org/gt7d2w
   image: images/Projects/Rhythms/Modeling_Regularity.jpg
+  type: paper
   tags:
   - Rhythms
   plugin: sources.py
@@ -222,6 +234,7 @@
   date: '2023-04-27'
   link: https://doi.org/gt565n
   image: images/Projects/Rhythms/2023-SIEDS-Cover.jpg
+  type: paper
   tags:
   - Rhythms
   plugin: sources.py
@@ -245,6 +258,7 @@
   date: '2022-03-03'
   link: https://doi.org/gt6nwj
   image: images/Projects/Rhythms/A_Computational_Framework.png
+  type: paper
   tags:
   - Rhythms
   plugin: sources.py
@@ -259,6 +273,7 @@
   date: '2021-09-17'
   link: https://doi.org/gt6nwp
   image: images/Projects/Rhythms/Daily_Trajectory.png
+  type: paper
   tags:
   - Rhythms
   plugin: sources.py
@@ -273,6 +288,7 @@
   date: '2021-08-07'
   link: https://doi.org/gt6nwk
   image: images/Projects/Rhythms/Towards_Computational_Framework.png
+  type: paper
   tags:
   - Rhythms
   plugin: sources.py
@@ -292,6 +308,7 @@
   date: '2020-04-01'
   link: https://doi.org/gt6nwm
   image: images/Projects/Rhythms/2020-SIEDS-Cover.png
+  type: paper
   tags:
   - Rhythms
   plugin: sources.py
@@ -315,6 +332,7 @@
   date: '2020-08-10'
   link: https://doi.org/gt6nwq
   image: images/Projects/Rhythms/CoRhythMo.png
+  type: paper
   tags:
   - Rhythms
   plugin: sources.py
@@ -330,6 +348,7 @@
   publisher: 2025 Systems and Information Engineering Design Symposium (SIEDS)
   date: '2025-05-02'
   link: https://doi.org/hb5m7q
+  type: paper
   tags:
   - Rhythms
   plugin: sources.py
@@ -354,6 +373,7 @@
   date: '2019-07-24'
   link: https://doi.org/gg7rqp
   image: images/Papers/behavioral-phenotypes.png
+  type: paper
   tags:
   - Rhythms
   plugin: sources.py
@@ -370,6 +390,7 @@
   date: '2019-03-29'
   link: https://doi.org/gt6nwn
   image: images/Projects/Rhythms/Modeling_Biobehavioral_Rhythms-IMWUT2019.jpg
+  type: paper
   tags:
   - Rhythms
   plugin: sources.py
@@ -402,6 +423,7 @@
   date: '2025-10-12'
   link: https://doi.org/hb5m7r
   image: images/Papers/spectro_flowchart.png
+  type: paper
   tags:
   - Nutrition
   plugin: sources.py
@@ -420,6 +442,7 @@
   publisher: IEEE Pervasive Computing
   date: '2025-07-01'
   link: https://doi.org/hb5m7s
+  type: paper
   tags:
   - Nutrition
   plugin: sources.py
@@ -450,6 +473,7 @@
   date: '2022-08-29'
   link: https://doi.org/gt7d3z
   image: images/Projects/Adaptive_Robots/self_learning.jpg
+  type: paper
   tags:
   - Adaptive Humanoid Robots
   plugin: sources.py
@@ -467,6 +491,7 @@
   date: '2021-03-08'
   link: https://doi.org/gt7d32
   image: images/Projects/Adaptive_Robots/pain.jpg
+  type: paper
   tags:
   - Adaptive Humanoid Robots
   plugin: sources.py
@@ -483,6 +508,7 @@
     Communication (RO-MAN)
   date: '2025-08-25'
   link: https://doi.org/hb5m7t
+  type: paper
   tags:
   - Adaptive Humanoid Robots
   plugin: sources.py
@@ -498,6 +524,7 @@
     Applications, Systems and Engineering Technologies'
   date: '2025-06-24'
   link: https://doi.org/hb5m7v
+  type: paper
   tags:
   - Digital Wellbeing
   plugin: sources.py
@@ -512,6 +539,7 @@
   publisher: arXiv
   date: '2026-02-02'
   link: https://arxiv.org/abs/2505.12109
+  type: preprint
   tags:
   - RL
   plugin: sources.py
@@ -524,6 +552,7 @@
   publisher: 2025 International Joint Conference on Neural Networks (IJCNN)
   date: '2025-06-30'
   link: https://doi.org/hb5m7w
+  type: paper
   tags:
   - RL
   plugin: sources.py
