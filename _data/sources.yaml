@@ -252,6 +252,7 @@
 
 # Parameter Transfer for Single-Task Reinforcement Learning
 - id: 10.1109/IJCNN64981.2025.11228810
+  image: images/Papers/parameter_transfer.png
   type: paper
   tags:
     - RL
