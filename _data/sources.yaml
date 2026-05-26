@@ -1,4 +1,4 @@
-# - id: doi:10.1371/journal.pcbi.1007128
+# - id: 10.1371/journal.pcbi.1007128
 #   type: paper
 #   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 #   date: 2020-12-4
@@ -16,10 +16,10 @@
 #     - collaboration
 #   repo: greenelab/meta-review
 
-# - id: doi:10.1016/j.csbj.2020.05.017
+# - id: 10.1016/j.csbj.2020.05.017
 #   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
 
-# - id: doi:10.7554/eLife.32822
+# - id: 10.7554/eLife.32822
 #   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
 
 # ======== Victim Tagging ========
@@ -31,13 +31,13 @@
     - Victim Tagging
     
 # Practical Heuristics for Victim Tagging During a Mass Casualty Incident Emergency Medical Response
-- id: doi:10.1109/CASE59546.2024.10711469
+- id: 10.1109/CASE59546.2024.10711469
   image: images/Projects/Victim_Tagging/victim_tagging_cover_photo.png
   tags:
     - Victim Tagging
 
 # Multi-Agent System for Optimizing Victim Tagging in Human/Autonomous Responder Teams
-- id: doi:10.1109/ICCPS61052.2024.00034
+- id: 10.1109/ICCPS61052.2024.00034
   image: images/Projects/Victim_Tagging/iccps_photo.png
   tags:
     - Victim Tagging
@@ -45,119 +45,116 @@
 # ======== Mood Ring ========
 
 # Framework for Ranking Machine Learning Predictions of Limited, Multimodal, and Longitudinal Behavioral Passive Sensing Data: Combining User-Agnostic and Personalized Modeling
-- id: doi:10.2196/47805
+- id: 10.2196/47805
   image: images/Projects/Moodring/Framework-for-Ranking.png
   tags:
     - Mood Ring
 
 # Predicting depression in adolescents using mobile and wearable sensors: multimodal machine learning-based exploratory study
-- id: doi:10.2196/35807
+- id: 10.2196/35807
   image: images/Projects/Moodring/Predicting-Depression.png
   tags:
     - Mood Ring
 
 # An Automated Machine Learning Pipeline for Monitoring and Forecasting Mobile Health Data
-- id: doi:10.1109/SIEDS52267.2021.9483755
+- id: 10.1109/SIEDS52267.2021.9483755
   image: images/Projects/Moodring/SIEDS-2021.png
   tags:
     - Mood Ring
 
 # 4.3 Evaluation of MoodRing Passive Mood Monitoring Application on Improving Quality of Depression Management in Adolescents
 - id: 10.1016/j.jaac.2025.07.746
-  image: 
   tags:
     - Mood Ring
 
 # ======== Melodies ========
 
 # Chords
-- id: doi:10.1145/3675094.3678495
+- id: 10.1145/3675094.3678495
   image: images/Projects/Melodies/Chords.png
   tags:
     - Melodies
 
 # Sounds of Health: Using Personalized Sonification Models to Communicate Health Information
-- id: doi:10.1145/3570346
+- id: 10.1145/3570346
   image: images/Projects/Melodies/Sounds-Of-Health-Cover.jpg
   tags:
     - Melodies
 
 # Changing Your Tune: Lessons for Using Music to Encourage Physical Activity
-- id: doi:10.1145/3659611
+- id: 10.1145/3659611
   image: images/Projects/Melodies/Changing-Your-Tune-Cover.jpg
   tags:
     - Melodies
 
 # Enabling Meaningful Communication Through Personalization
 - id: 10.1109/PerComWorkshops65533.2025.00145
-  image: 
   tags:
     - Melodies
 
 # ======== Rhythms ========
 
 # Identifying Links Between Productivity and Biobehavioral Rhythms Modeled From Multimodal Sensor Streams: Exploratory Quantitative Study
-- id: doi:10.2196/47194 
+- id: 10.2196/47194 
   image: images/Projects/Rhythms/Identifying_Links.png
   tags:
     - Rhythms
 
 # Modeling Regularity and Predictability in Human Behavior from Multidimensional Sensing Signals and Personal Characteristics
-- id: doi:10.1109/ICMLA58977.2023.00045
+- id: 10.1109/ICMLA58977.2023.00045
   image: images/Projects/Rhythms/Modeling_Regularity.jpg
   tags:
     - Rhythms
 
 # Personalization in Circadian Rhythm-Based Event Scheduling
-- id: doi:10.1109/SIEDS58326.2023.10137806
+- id: 10.1109/SIEDS58326.2023.10137806
   image: images/Projects/Rhythms/2023-SIEDS-Cover.jpg
   tags:
     - Rhythms
 
 # A Computational Framework for Modeling Biobehavioral Rhythms from Mobile and Wearable Data Streams
-- id: doi:10.1145/3510029
+- id: 10.1145/3510029
   image: images/Projects/Rhythms/A_Computational_Framework.png
   tags:
     - Rhythms
 
 # Daily Trajectory Prediction Using Temporal Frequent Pattern Tree
-- id: doi:10.1007/978-981-16-2380-6_29
+- id: 10.1007/978-981-16-2380-6_29
   image: images/Projects/Rhythms/Daily_Trajectory.png
   tags:
     - Rhythms
 
 # Towards a Computational Framework for Automated Discovery and Modeling of Biological Rhythms from Wearable Data Streams
-- id: doi:10.1007/978-3-030-82199-9_44
+- id: 10.1007/978-3-030-82199-9_44
   image: images/Projects/Rhythms/Towards_Computational_Framework.png
   tags:
     - Rhythms
 
 # Modeling Biological Rhythms to Predict Mental and Physical Readiness
-- id: doi:10.1109/SIEDS49339.2020.9106683
+- id: 10.1109/SIEDS49339.2020.9106683
   image: images/Projects/Rhythms/2020-SIEDS-Cover.png
   tags:
     - Rhythms
 
 # CoRhythMo: A Computational Framework for Modeling Biobehavioral Rhythms from Mobile and Wearable Data Streams
-- id: doi:10.1101/2020.08.10.244020
+- id: 10.1101/2020.08.10.244020
   image: images/Projects/Rhythms/CoRhythMo.png
   tags:
     - Rhythms
 
 # Student Receptiveness to Circadian-Aware AI-Driven Scheduling
 - id: 10.1109/SIEDS65500.2025.11021173
-  image: 
   tags:
     - Rhythms
 
 # Identifying Behavioral Phenotypes of Loneliness and Social Isolation with Passive Sensing: Statistical Analysis, Data Mining and Machine Learning of Smartphone and Fitbit Data
-- id: doi:10.2196/13209
+- id: 10.2196/13209
   image: images/Papers/behavioral-phenotypes.png
   tags:
     - Rhythms
 
 # Modeling Biobehavioral Rhythms with Passive Sensing in the Wild: A Case Study to Predict Readmission Risk after Pancreatic Surgery
-- id: doi:10.1145/3314395
+- id: 10.1145/3314395
   image: images/Projects/Rhythms/Modeling_Biobehavioral_Rhythms-IMWUT2019.jpg
   tags:
     - Rhythms
@@ -171,17 +168,15 @@
     - Nutrition
 
 # Exploring Smartphone-based Spectrophotometry for Vitamin B12 Quantification
-- id: doi.org/10.1145/3714394.3754376
+- id: 10.1145/3714394.3754376
   image: images/Papers/spectro_flowchart.png
   tags:
     - Nutrition
 
 # Characterization and Feasibility of Wearable Spectroscopic Tracking of Nutrition Biomarkers
 - id: 10.1109/MPRV.2025.3575254
-  image: 
   tags:
     - Nutrition
-
 
 # ======== Injustice ========
 
@@ -201,33 +196,29 @@
     - Adaptive Humanoid Robots
 
 # Adaptive Humanoid Robots for Pain Management
-- id: doi:10.1145/3434074.3447224
+- id: 10.1145/3434074.3447224
   image: images/Projects/Adaptive_Robots/pain.jpg
   tags:
     - Adaptive Humanoid Robots
 
 # Perceptions of a Robot’s Emotional Expressions are Influenced by Users’ Emotional States
 - id: 10.1109/RO-MAN63969.2025.11217906
-  image: 
   tags:
     - Adaptive Humanoid Robots
 
 # ======= Digital Wellbeing =======
 #Predicting The Severity of Anxiety in Adolescents Through Passively Sensed Behaviors
-- id: doi:10.1145/3721201.3721389
-  image: 
+- id: 10.1145/3721201.3721389
   tags:
     - Digital Wellbeing
 
 # ======== RL ========
 # SAINT: Attention-Based Modeling of Sub-Action Dependencies in Multi-Action Policies
-- id: 10.48550/arXiv.2505.12109
-  image: 
+- id: arXiv:2505.12109
   tags:
     - RL
 
 # Parameter Transfer for Single-Task Reinforcement Learning
 - id: 10.1109/IJCNN64981.2025.11228810
-  image:
   tags:
     - RL
