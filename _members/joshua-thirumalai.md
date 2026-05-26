@@ -1,6 +1,6 @@
 ---
 name: Joshua Thirumalai
-image: 
+image: hai-lab-uva.github.io/images/People/joshua-thirumalai.jpg
 role: undergrad
 affiliation: University of Virginia
 aliases:
