@@ -228,6 +228,7 @@
 
 # Perceptions of a Robot’s Emotional Expressions are Influenced by Users’ Emotional States
 - id: 10.1109/RO-MAN63969.2025.11217906
+  image: images/Papers/RobotEmotionalExpressions.png
   type: paper
   tags:
     - Adaptive Humanoid Robots
@@ -242,6 +243,7 @@
 # ======== RL ========
 # SAINT: Attention-Based Modeling of Sub-Action Dependencies in Multi-Action Policies
 - id: arXiv:2505.12109
+  image: images/Papers/SAINT.png
   type: preprint
   tags:
     - RL
