@@ -556,6 +556,7 @@
   publisher: 2025 International Joint Conference on Neural Networks (IJCNN)
   date: '2025-06-30'
   link: https://doi.org/hb5m7w
+  image: images/Papers/parameter_transfer.png
   type: paper
   tags:
   - RL
