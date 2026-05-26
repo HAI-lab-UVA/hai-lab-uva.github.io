@@ -62,6 +62,11 @@
   tags:
     - Mood Ring
 
+# 4.3 Evaluation of MoodRing Passive Mood Monitoring Application on Improving Quality of Depression Management in Adolescents
+- id: 10.1016/j.jaac.2025.07.746
+  image: 
+  tags:
+    - Mood Ring
 
 # ======== Melodies ========
 
@@ -83,6 +88,11 @@
   tags:
     - Melodies
 
+# Enabling Meaningful Communication Through Personalization
+- id: 10.1109/PerComWorkshops65533.2025.00145
+  image: 
+  tags:
+    - Melodies
 
 # ======== Rhythms ========
 
@@ -134,6 +144,12 @@
   tags:
     - Rhythms
 
+# Student Receptiveness to Circadian-Aware AI-Driven Scheduling
+- id: 10.1109/SIEDS65500.2025.11021173
+  image: 
+  tags:
+    - Rhythms
+
 # Identifying Behavioral Phenotypes of Loneliness and Social Isolation with Passive Sensing: Statistical Analysis, Data Mining and Machine Learning of Smartphone and Fitbit Data
 - id: doi:10.2196/13209
   image: images/Papers/behavioral-phenotypes.png
@@ -154,12 +170,18 @@
   tags:
     - Nutrition
 
-# Exploring Smartphone-based Spectrophotometry for Nutrient Identification and Quantification
-- id: arXiv:2410.11027
+# Exploring Smartphone-based Spectrophotometry for Vitamin B12 Quantification
+- id: https://doi.org/10.1145/3714394.3754376
   image: images/Papers/spectro_flowchart.png
-  type: preprint
   tags:
     - Nutrition
+
+# Characterization and Feasibility of Wearable Spectroscopic Tracking of Nutrition Biomarkers
+- id: 10.1109/MPRV.2025.3575254
+  image: 
+  tags:
+    - Nutrition
+
 
 # ======== Injustice ========
 
@@ -181,3 +203,29 @@
   image: images/Projects/Adaptive_Robots/pain.jpg
   tags:
     - Adaptive Humanoid Robots
+
+# Perceptions of a Robot’s Emotional Expressions are Influenced by Users’ Emotional States
+- id: 10.1109/RO-MAN63969.2025.11217906
+  image: 
+  tags:
+    - Adaptive Humanoid Robots
+
+# ======= Digital Wellbeing =======
+#Predicting The Severity of Anxiety in Adolescents Through Passively Sensed Behaviors
+- id: doi:10.1145/3721201.3721389
+  image: 
+  tags:
+    - Digital Wellbeing
+
+# ======== RL ========
+# SAINT: Attention-Based Modeling of Sub-Action Dependencies in Multi-Action Policies
+ - id: 10.48550/arXiv.2505.12109
+  image: 
+  tags:
+    - RL
+
+# Parameter Transfer for Single-Task Reinforcement Learning
+- id: 10.1109/IJCNN64981.2025.11228810
+  image:
+  tags:
+    - RL
