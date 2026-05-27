@@ -565,3 +565,72 @@
   - RL
   plugin: sources.py
   file: sources.yaml
+- id: 10.48550/arXiv.2601.04441
+  title: Improving and Accelerating Offline RL in Large Discrete Action Spaces with
+    Structured Policy Initialization
+  authors:
+  - Matthew Landers
+  - Taylor W. Killian
+  - Thomas Hartvigsen
+  - Afsaneh Doryab
+  publisher: arXiv
+  date: '2026-01-01'
+  link: https://doi.org/hb5qbn
+  image: images/Papers/offline_rl_action_spaces.png
+  type: preprint
+  tags:
+  - RL
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.48550/arXiv.2605.06557
+  title: 'Coordination Matters: Evaluation of Cooperative Multi-Agent Reinforcement
+    Learning'
+  authors:
+  - Maria Ana Cardei
+  - Matthew Landers
+  - Afsaneh Doryab
+  publisher: arXiv
+  date: '2026-01-01'
+  link: https://doi.org/hb5qbp
+  image: images/Papers/coordination_marl.png
+  type: preprint
+  tags:
+  - RL
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.48550/arXiv.2410.21151
+  title: 'BraVE: Offline Reinforcement Learning for Discrete Combinatorial Action
+    Spaces'
+  authors:
+  - Matthew Landers
+  - Taylor W. Killian
+  - Hugo Barnes
+  - Thomas Hartvigsen
+  - Afsaneh Doryab
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/hb5qbq
+  image: images/Papers/BRAVE_traversal.png
+  type: paper
+  tags:
+  - RL
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.2139/ssrn.6754660
+  title: 'Toward Human-Inspired Collaborative Intelligence for Human-AI Team Decision-Making:
+    A Survey'
+  authors:
+  - Sree Deeksha Bethapuri
+  - Maria Cardei
+  - Hannah Sprague
+  - Salonee Verma
+  - Afsaneh Doryab
+  publisher: Elsevier BV
+  date: '2026-01-01'
+  link: https://doi.org/hb5qbr
+  image: images/Papers/hai_collab_framework.png
+  type: preprint
+  tags:
+  - Teams
+  plugin: sources.py
+  file: sources.yaml
