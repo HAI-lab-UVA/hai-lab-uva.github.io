@@ -21,6 +21,7 @@
 
 # - id: 10.7554/eLife.32822
 #   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+#   adding an update here to see if pushing again will fix the images
 
 # ======== Victim Tagging ========
 # Factorized Deep Q-Network for Cooperative Multi-Agent Reinforcement Learning in Victim Tagging
