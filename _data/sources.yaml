@@ -260,3 +260,33 @@
   type: paper
   tags:
     - RL
+
+# Improving and Accelerating Offline RL in Large Discrete Action Spaces with Structured Policy Initialization
+- id: 10.48550/arXiv.2601.04441
+  image: images/Papers/offline_rl_action_spaces.png
+  type: preprint
+  tags:
+    - RL
+
+# Coordination Matters: Evaluation of Cooperative Multi-Agent Reinforcement Learning
+- id: 10.48550/arXiv.2605.06557
+  image: images/Papers/coordination_marl.png
+  type: preprint
+  tags:
+    - RL
+
+# BraVE: Offline reinforcement learning for discrete combinatorial action spaces
+- id: 10.48550/arXiv.2410.21151
+  image: images/Papers/BRAVE_traversal.png
+  type: paper
+  tags:
+    - RL
+
+# ======= Human-AI Teams =======
+
+# Toward Human-Inspired Collaborative Intelligence for Human-AI Team Decision-Making: A Survey
+- id: 10.2139/ssrn.6754660
+  image: images/Papers/hai_collab_framework.png
+  type: preprint
+  tags:
+    - Teams
