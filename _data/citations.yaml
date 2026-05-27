@@ -178,6 +178,7 @@
     Workshops and other Affiliated Events (PerCom Workshops)
   date: '2025-03-17'
   link: https://doi.org/hb5m7p
+  image: images/Papers/communication_personalization.png
   type: paper
   tags:
   - Melodies
@@ -349,6 +350,7 @@
   publisher: 2025 Systems and Information Engineering Design Symposium (SIEDS)
   date: '2025-05-02'
   link: https://doi.org/hb5m7q
+  image: images/Papers/circadian.png
   type: paper
   tags:
   - Rhythms
@@ -527,6 +529,7 @@
     Applications, Systems and Engineering Technologies'
   date: '2025-06-24'
   link: https://doi.org/hb5m7v
+  image: images/Papers/predicting_anxiety.png
   type: paper
   tags:
   - Digital Wellbeing
