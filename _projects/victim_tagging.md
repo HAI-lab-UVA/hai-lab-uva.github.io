@@ -1,7 +1,7 @@
 ---
 title: Victim Tagging
 subtitle: Optimizing victim tagging during a mass casualty incident emergency medical response.
-group: ongoing
+group: past
 image: images/Projects/Victim_Tagging/victim_tagging_cover_photo.png
 description: 
 repo: 
