@@ -99,6 +99,7 @@
 
 # Enabling Meaningful Communication Through Personalization
 - id: 10.1109/PerComWorkshops65533.2025.00145
+  image: images/Papers/communication_personalization.png
   type: paper
   tags:
     - Melodies
@@ -163,6 +164,7 @@
 
 # Student Receptiveness to Circadian-Aware AI-Driven Scheduling
 - id: 10.1109/SIEDS65500.2025.11021173
+  image: images/Papers/circadian.png
   type: paper
   tags:
     - Rhythms
@@ -238,6 +240,7 @@
 # ======= Digital Wellbeing =======
 #Predicting The Severity of Anxiety in Adolescents Through Passively Sensed Behaviors
 - id: 10.1145/3721201.3721389
+  image: images/Papers/predicting_anxiety.png
   type: paper
   tags:
     - Digital Wellbeing
