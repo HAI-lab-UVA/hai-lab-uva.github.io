@@ -1,5 +1,5 @@
 ---
-title: Towards an accessible, noninvasive micronutrient status assessment method: a comprehensive review of existing techniques
+title: Towards an accessible, noninvasive micronutrient status assessment method&#x3A; a comprehensive review of existing techniques
 author: hannah-sprague
 tags:
   - Paper Acceptance
