@@ -1,5 +1,5 @@
 ---
-title: Changing your tune: Lessons for using music to encourage physical activity
+title: Changing your tune&#x3A; Lessons for using music to encourage physical activity
 author: hannah-sprague
 tags:
   - Paper Acceptance

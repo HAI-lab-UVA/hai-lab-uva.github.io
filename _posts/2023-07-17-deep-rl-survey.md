@@ -1,5 +1,5 @@
 ---
-title: Deep reinforcement learning verification: A survey
+title: Deep reinforcement learning verification&#x3A; A survey
 author: hannah-sprague
 tags:
   - Paper Acceptance
