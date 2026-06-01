@@ -1,7 +1,7 @@
 ---
 name: Pranshuta Shukla
 image: 
-role: md
+role: ms
 affiliation: University of Virginia
 aliases:
   - P. Shukla
