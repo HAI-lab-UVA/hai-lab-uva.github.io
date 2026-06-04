@@ -1,7 +1,7 @@
 ---
 name: Chong Zhao
 image: images/photo.jpg
-role: undergrad
+role: ms
 affiliation: Grinnell College
 aliases:
   - C. Zhao
