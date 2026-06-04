@@ -13,6 +13,7 @@ people:
   - S. Bethapuri
   - S. Verma
   - H. Sprague
+contact: M. Clark
 ---
   
 At the intersection of human psychology and AI theory, we are researching ways to make collaboration between humans and AI more effective and useful. We look at computational techniques as well as human behavior for improving joint outcomes towards completing tasks and solving human problems.
