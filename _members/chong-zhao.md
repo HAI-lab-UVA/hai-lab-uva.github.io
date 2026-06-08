@@ -2,7 +2,8 @@
 name: Chong Zhao
 image: images/photo.jpg
 role: ms
-affiliation: Grinnell College
+affiliation: Harvard University
+image: images/People/cong-zhao.jpg
 aliases:
   - C. Zhao
 links:
@@ -11,4 +12,4 @@ projects:
   - Rhythms
 ---
 
-Chong Zhao is a senior at Grinnell College, majoring in Computer Science and Mathematics. She has conducted research on gerrymandering and biostatistical analysis. Currently, she is focused on exploring the correlation between people's well-being and their daily rhythms, as well as the impact of external events on these rhythms.
+Chong Zhao is a master’s student in Computational Science and Engineering at Harvard University. She received her B.A. in Computer Science and Mathematics from Grinnell College. Her research interests include machine learning, computational social science, graph algorithms, and data-driven health analysis, with prior work on gerrymandering, randomized graph algorithms, and daily behavioral rhythms.
