@@ -9,11 +9,7 @@
   content: "";
   position: absolute;
   inset: 0;
-  background-image: var(--image);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: 50% 50%;
-  opacity: 0.25;
+  background-color: #232D4B;
   z-index: -1;
 }
 
