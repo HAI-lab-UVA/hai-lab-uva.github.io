@@ -7,7 +7,7 @@
 
 header.background {
   --image: none;
-  background-image: linear-gradient(to bottom right, #232D4B, #495E9D);
+  background-image: linear-gradient(to bottom right, #495E9D, #232D4B);
 }
 
 footer.background {
