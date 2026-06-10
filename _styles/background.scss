@@ -8,10 +8,19 @@
   z-index: 1;
 }
 
+header.background {
+  --image: none;
+  background-color: #232D4B;
+}
+
 .background:before {
   content: "";
   position: absolute;
   inset: 0;
-  background-color: #232D4B;
+  background-image: var(--image);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  opacity: 0.25;
   z-index: -1;
 }
