@@ -8,7 +8,7 @@
 
 <header
   class="background"
-  style="--image: url('{{ image }}')"
+  {% if page.header or site.header %}style="--image: url('{{ image }}')"{% endif %}
   {% if dark == true or dark == false %}
     data-dark="{{ dark }}"
   {% endif %}
