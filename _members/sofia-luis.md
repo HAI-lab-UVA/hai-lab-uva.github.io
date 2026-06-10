@@ -1,6 +1,6 @@
 ---
 name: Sofia Luis
-image: images/People/sofia_luis.png
+image: images/People/sofia_luis.jpg
 role: undergrad
 affiliation: University of Virginia
 aliases:
