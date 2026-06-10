@@ -7,7 +7,7 @@ aliases:
     - S. Bethapuri
 fun-fact: Deeksha is well known within the Lab for her prolific rate of sending Slack messages between the hours of midnight and 5am. 💤
 links:
-  email: 
+  email: bub5jm@virginia.edu
   linkedin: sree-deeksha-bethapuri
 ---
 
