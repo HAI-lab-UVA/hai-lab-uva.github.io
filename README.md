@@ -14,6 +14,7 @@ The site is based on a template from the Greene Lab, see the below template docu
 
 * Andrew Balch - xxv2zh@virginia.edu
 * Kyan Yang - kyan.b.yang@gmail.com
+* Hannah Sprague - hsprague314@gmail.com
 * Members of the HAI Lab!
 
 # How to contribute
