@@ -1,5 +1,5 @@
 ---
-title: Congratulations Sofia!
+title: Sofia was honored at the Exellence in Engineering Gala! Congratulations!
 author: hannah-sprague
 image: images/Awards/sofia-engr-excellence.png
 tags:

@@ -1,5 +1,5 @@
 ---
-title: Congratulations Maria!
+title: Maria was awarded the Early-Stage Research Award!
 author: hannah-sprague
 tags:
   - Awards
