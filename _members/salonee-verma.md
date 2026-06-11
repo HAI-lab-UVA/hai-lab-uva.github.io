@@ -1,6 +1,6 @@
 ---
 name: Salonee Verma
-image: 
+image: images/People/salonee-verma.png
 role: undergrad
 affiliation: University of Virginia
 aliases: 
@@ -19,4 +19,5 @@ fun-fact:
 projects: 
   - 
 ---
+Salonee is an undergraduate researcher at the University of Virginia.
 
