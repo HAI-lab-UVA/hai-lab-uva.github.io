@@ -1,5 +1,5 @@
 ---
-title: Matt Landers received the Outstanding PhD award!
+title: Matt Landers received the Outstanding PhD Award!
 author: hannah-sprague
 image:  images/Awards/Matt_Outstanding_PhD_Award.jpg
 tags:
