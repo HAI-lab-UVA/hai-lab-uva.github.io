@@ -7,10 +7,10 @@ aliases:
     - M. Livingston
 
 email:
-  - @virginia.edu
+  - 404@virginia.edu
 links:
   home-page: 
-  email: @virginia.edu
+  email: 404@virginia.edu
   linkedin: 
   google-scholar: 
   orcid: 
