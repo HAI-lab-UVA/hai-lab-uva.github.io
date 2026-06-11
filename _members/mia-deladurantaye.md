@@ -19,4 +19,5 @@ fun-fact:
 projects: 
   - 
 ---
+Miya is an undergraduate researcher at the University of Virginia.
 
