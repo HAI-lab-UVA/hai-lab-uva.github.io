@@ -76,7 +76,7 @@ By harnessing the capabilities and data of everyday mobile technology, the Human
 
 {%
   include feature.html
-  image="images/People/afsaneh.png"
+  image="images/People/team_rotunda_2025.JPG"
   link="team"
   title="Our Team"
   text=text

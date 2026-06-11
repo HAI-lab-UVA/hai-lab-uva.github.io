@@ -26,6 +26,8 @@ module Jekyll
       data = data.clone
       for filter in array_filter(filters.split(","))
         key, value = array_filter(filter.split(":"))
+        puts "KEY: #{key.inspect}, VALUE: #{value.inspect}"
+        puts "FIRST MATCH CANDIDATE tags: #{data.first[key].inspect rescue 'error'}"
         # find unspecified fields
         if value == nil
           data.select!{|d| d[key] == nil}
