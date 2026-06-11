@@ -1,6 +1,6 @@
 ---
 name: Mia deLadurantaye
-image: 
+image: images/People/mia-deladurantaye.jpeg
 role: undergrad
 affiliation: University of Virginia
 aliases:

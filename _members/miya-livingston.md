@@ -1,6 +1,6 @@
 ---
 name: Miya Livingston
-image: 
+image: images/People/miya-livingston.jpeg
 role: undergrad
 affiliation: University of Virginia
 aliases:
