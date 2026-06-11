@@ -1,6 +1,6 @@
 ---
 name: Alex Zummo
-image: images/photo.jpg
+image: images/People/alex-zummo.jpeg
 role: alum_staff
 affiliation: University of Virginia
 aliases:

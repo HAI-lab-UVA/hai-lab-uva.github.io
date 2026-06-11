@@ -1,6 +1,6 @@
 ---
 name: Anna Barrick
-image: images/photo.jpg
+image: images/People/anna-barrick.jpeg
 role: alum_staff
 affiliation: University of Virginia
 aliases:
