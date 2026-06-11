@@ -7,7 +7,7 @@ nav:
 
 # Team
 
-![Image]({{"images/People/team_rotunda_2025.JPG",  | relative_url }})
+<img src="{{ 'images/People/team_rotunda_2025.JPG' | relative_url }}" style="width: 50%;">
 
 {% include section.html %}
 
