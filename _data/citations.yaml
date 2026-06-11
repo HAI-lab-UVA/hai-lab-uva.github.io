@@ -632,6 +632,5 @@
   type: preprint
   tags:
   - Human AI Teams
-  - Human-Robot-Interaction
   plugin: sources.py
   file: sources.yaml
