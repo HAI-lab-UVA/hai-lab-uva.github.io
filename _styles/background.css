@@ -12,7 +12,7 @@ header.background {
 
 footer.background {
   --image: none;
-  background-image: linear-gradient(to bottom right, #E57200, #E57200);
+  background-image: linear-gradient(to bottom right, #495E9D, #E57200);
 }
 
 .background:before {
