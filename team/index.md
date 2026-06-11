@@ -5,8 +5,8 @@ nav:
   tooltip: About our team
 ---
 
-# Team
-![Image]({{"/images/People/team_rotunda_2025.JPG",  | relative_url }})
+# {% include icon.html icon="fa-solid fa-users" %}Team
+
 {% include section.html %}
 
 ## Primary Investigator
