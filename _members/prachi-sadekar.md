@@ -1,6 +1,6 @@
 ---
 name: Prachi Sadekar
-image: images/photo.jpg
+image: images/People/prachi-sadekar.jpeg
 role: alum_undergrad
 affiliation: University of Virginia
 aliases:

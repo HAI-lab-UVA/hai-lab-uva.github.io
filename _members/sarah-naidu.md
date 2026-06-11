@@ -1,6 +1,6 @@
 ---
 name: Sarah Naidu
-image: images/photo.jpg
+image: images/People/sarah_naidu.webp
 role: alum_undergrad
 affiliation: University of Virginia
 aliases:

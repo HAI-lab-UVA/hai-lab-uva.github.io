@@ -1,6 +1,6 @@
 ---
 name: Hana Wang
-image: images/photo.jpg
+image: images/People/hana-wang.jpeg
 role: alum_undergrad
 affiliation: University of Virginia
 aliases:

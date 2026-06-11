@@ -1,6 +1,6 @@
 ---
 name: Kunaal Agarwal
-image:
+image: images/People/kunaal-agarwal.jpeg
 role: alum_undergrad
 affiliation: University of Virginia
 aliases:

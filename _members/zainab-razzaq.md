@@ -1,6 +1,6 @@
 ---
 name: Zainab Razzaq
-image: images/photo.jpg
+image: images/People/zainab-razzaq.jpeg
 role: alum_undergrad
 affiliation: University of Virginia
 aliases:

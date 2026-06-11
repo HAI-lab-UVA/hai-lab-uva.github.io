@@ -1,6 +1,6 @@
 ---
 name: Elaine Zhang
-image: images/photo.jpg
+image: images/People/elaine-zhang.jpeg
 role: alum_undergrad
 affiliation: University of Virginia
 aliases:

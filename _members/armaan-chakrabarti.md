@@ -1,6 +1,6 @@
 ---
 name: Armaan Chakrabarti
-image: images/photo.jpg
+image: images/People/armaan-chakrabarti.jpeg
 role: alum_undergrad
 affiliation: University of Virginia
 aliases:

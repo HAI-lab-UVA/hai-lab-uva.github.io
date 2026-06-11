@@ -1,6 +1,6 @@
 ---
 name: Matthew Haid
-image: images/photo.jpg
+image: images/People/matthew-haid.jpeg
 role: alum_undergrad
 affiliation: University of Virginia
 aliases:

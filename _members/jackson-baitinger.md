@@ -1,6 +1,6 @@
 ---
 name: Jackson Baitinger
-image: images/photo.jpg
+image: images/People/jackson-baitinger.jpeg
 role: alum_undergrad
 affiliation: University of Virginia
 aliases:

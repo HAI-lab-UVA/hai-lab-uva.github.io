@@ -1,6 +1,6 @@
 ---
 name: Jason Chin
-image: images/photo.jpg
+image: images/People/jason-chin.jpeg
 role: alum_undergrad
 affiliation: University of Virginia
 aliases:
