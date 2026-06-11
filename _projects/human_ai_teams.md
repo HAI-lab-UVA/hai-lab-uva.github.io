@@ -7,7 +7,7 @@ description:
 repo:
 tags:
   - Human-Robot-Interaction
-  - Teams
+  - Human AI Teams
 people: 
   - M. Clark
   - M. Cardei
