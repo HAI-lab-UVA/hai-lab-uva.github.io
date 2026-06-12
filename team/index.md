@@ -7,7 +7,7 @@ nav:
 
 # Team
 <div style="text-align: center;">
-  <img src="{{ 'images/People/team_rotunda_2025.JPG' | relative_url }}" style="width: 50%;">
+  <img src="{{ 'images/People/team_rotunda_2025.JPG' | relative_url }}" style="width: 75%;">
 </div>
 
 {% include section.html %}
