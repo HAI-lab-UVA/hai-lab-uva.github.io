@@ -2,7 +2,7 @@
 title: Mood Ring
 subtitle: Detecting Changes in Adolescent Depression
 group: past
-image: r"images/Projects/Moodring/Adolescent Depression Sensing and FLMS Framework.png"
+image: r"images/Projects/Moodring/adolescent_depression.png"
 description: 
 repo: 
 tags:
