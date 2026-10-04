@@ -56,7 +56,7 @@
 
 # Predicting depression in adolescents using mobile and wearable sensors: multimodal machine learning-based exploratory study
 - id: 10.2196/35807
-  image: images/Projects/Moodring/Predicting-Depression.png
+  image: images/Projects/Moodring/adolescent_depression.png
   type: paper
   tags:
     - Mood Ring
