@@ -3,9 +3,16 @@
 
 # Mission
 
-The Human AI Technology Lab seeks to understand ***human health and behavior through machine learning and computational models of mobile device data streams***. We strive to use mobile technology and intelligent computing to make ***health and social change*** in the community. We want to optimize opportunities for positive interactions between community members.
+The **Human-AI Technology (HAI) Lab** develops intelligent technologies that understand, adapt to, and support people in their everyday lives. Our research lies at the intersection of **artificial intelligence, human-centered computing, ubiquitous and mobile computing, and health**, with a focus on translating multimodal data into meaningful insights and personalized technologies.
 
-By harnessing the capabilities and data of everyday mobile technology, the Human AI Technology Lab aims to intelligently explore the patterns and behavior inherent to unique individuals. From this knowledge, we can make ***predictions about potential health outcomes*** and suggest individualized improvements to promote a ***healthier, happier community***. 
+We develop computational methods that integrate data from **smartphones, wearable devices, physiological sensors, digital interactions, and emerging sensing technologies** to model human behavior, health, and well-being. Our work spans **computational behavior modeling, personalized and adaptive AI, AI-enabled health monitoring and intervention, human-AI interaction, and safe interactive learning systems**.
+
+A central goal of the HAI Lab is to move beyond AI systems that simply make predictions toward technologies that can **understand individuals in context, explain meaningful patterns, and provide personalized support**. We investigate how behavioral and physiological patterns evolve over time, how AI systems can account for individual differences, and how people can meaningfully interact with and benefit from their own data.
+
+Our research is highly interdisciplinary, bringing together **engineering, computer science, health and medicine, behavioral science, and design**. We collaborate with researchers, clinicians, and communities to develop technologies that are technically rigorous, human-centered, and capable of addressing real-world challenges.
+
+Ultimately, the HAI Lab seeks to advance a future in which AI does not merely analyze human data, but becomes a **responsible and adaptive partner for understanding human behavior, improving health, and enhancing quality of life**.
+
 
 {% include section.html %}
 
